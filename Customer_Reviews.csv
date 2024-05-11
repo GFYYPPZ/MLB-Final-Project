@@ -1,0 +1,999 @@
+customer_id,product_id,review_text
+fddf62ef-6c1c-4ec2-8cf1-25be9cba0909,e402ec1b-e4de-43f3-b59a-f9ba9b32e1a0,Not what I expected.
+96e8152a-f5be-468f-b72b-e12da2e57aa6,9267989e-c04f-4453-b608-6781177744bf,Not what I expected.
+57d56731-a79b-4516-8248-6f243022e769,06edb8f1-4fd4-4298-a91d-e32fba9fef18,Could be better.
+55fdde64-c608-4691-889f-d3490310e8b6,894374ff-0ee4-472c-b7b8-27c0879989a1,Not what I expected.
+4f2b70d7-dc65-4c2d-bc62-11c4c7745e55,c68d0754-2b06-41f8-a60f-56006460ba5b,Worst purchase ever!
+7a7e7648-09e2-40c3-bb76-090baa84c508,5c261de0-5df1-4914-9c1b-f29ab602766f,Could be better.
+5539b594-68c0-46ff-86ac-b45cc2dd1aff,b9ae966a-822b-45c8-846e-aaea27d84961,This product is great!
+b8a83589-7830-49b1-b8e7-fc71fdcbcb35,4ca46b94-1563-44c8-97e9-e14bc1e0dc20,I am disappointed.
+3369d421-1a65-46a6-ac0c-0661bde36401,711c3b3b-8080-4dab-9510-37a32629523a,Very satisfied.
+f8122ceb-e7cf-4dc2-85c7-ed3399dca0bb,17217931-d2a9-41ef-86f8-fbe9a51fe4d0,Very satisfied.
+5f31cd24-8fda-4d34-9b13-bf48a1979542,e321978a-84e4-4b67-be74-fdeaa8723dfc,Very satisfied.
+1b333490-2f97-4b3e-8b29-1601e3242117,84f5601d-5a3a-42da-b0ee-b4578f710665,Very satisfied.
+734d79d6-728d-4e17-a830-f19453e6930f,2a30b830-0e75-4c44-a018-c4d7da401679,Could be better.
+37f7c800-2876-4dde-ba7b-780482c0fe00,c7f9dda1-eedf-4d4d-a6c3-0c310ee0a541,Not what I expected.
+b1cf1334-815f-47a5-bff2-a8567c4d89ab,e533c1d1-9a2e-472e-8e8a-c3b7c2d91cdc,This product is great!
+8566ca48-9887-4690-aa3b-721c53399c2e,1c8b3ff7-572d-4a66-9849-23911ea9f415,Worst purchase ever!
+323781d0-852c-4120-9d78-fd3e3ff3f534,1ef54370-f5c7-41b1-93d8-4142d5c290bb,Worst purchase ever!
+155536cf-7d25-44fd-bf0f-0279f616771b,f7dfcb60-8da8-4099-a9b7-53c98e567a5c,Worst purchase ever!
+9d4c182a-d839-418f-a90a-cc1fd39ef4fb,979043da-a3b5-41b8-9a16-722e024981ad,Not what I expected.
+ea3046ab-4983-4c61-8c2c-b7f5cfb7328e,f1dd79ae-7687-43f8-8c26-69b21778a1ba,I am disappointed.
+7e83ac7e-1fd5-4768-be71-ed8e505ad2ad,367c1a62-6957-4efc-bb9f-417f2851b161,Worst purchase ever!
+e57b5c05-d11c-40ab-bf6e-55667c37c751,73db80e0-9dae-4f61-9ca3-a6fb19a4a646,This is terrible.
+c82bdcaa-93b3-4da9-a4be-32bd50aa76e7,33f91e02-e9b0-4de4-b711-8593f4906e69,This is terrible.
+2c7e82db-188a-4a30-a75d-8cbee2727282,c11f8811-b895-452e-acf4-4bd7c4571054,Very satisfied.
+71666689-35ab-4a36-b39f-5faf64f21de1,4812cdce-9ac8-4fae-82d3-523a2307374e,Absolutely love this!
+f80903bf-6492-46b4-a1ae-7122b4deb1ac,69d8c4bd-aa8d-4202-91c5-0294fed00863,Absolutely love this!
+beb9151d-ea72-4801-a41c-1988f47a2008,36632b03-3fc5-473b-a3b0-86c426588fb5,This is terrible.
+f9b2a424-7426-47c8-bece-caad5f1aab84,6164b805-e571-48fc-b92c-d3347038a0bd,Very satisfied.
+b40cb3a9-95b9-4d65-b72f-71318996d630,7d91aba6-8ba8-453e-a946-18293d09f75b,Worst purchase ever!
+896214a0-12f8-4a86-b448-1be11b306d55,c2e3adf6-3395-406b-b0c7-d01e2e19b3ff,Not what I expected.
+cebcf9d6-69ca-45a8-89dc-0a3c394a6e9a,23663a42-0cb3-4fb1-b74b-313371a7ad6d,I am disappointed.
+aa07e1e1-a7d2-4c1e-9451-340480fceba6,8a893647-08b8-4634-8f36-6f5a7ca9b8c5,Very satisfied.
+6b07f5df-8d51-40b4-a198-70edc24f2648,ecfc38a8-49ac-4e3d-8561-d1200b3a0ffc,Not what I expected.
+35719995-b55f-4922-9a23-36ccb3fcbff3,a77e87c7-823f-4b5b-9d6d-febef53c65bd,Worst purchase ever!
+ce88b075-b874-40b1-ac05-1ca94122879b,78b3681e-a799-489e-b022-a28b07e7c744,Absolutely love this!
+f557ed0e-25b0-4c9c-8ab0-fe81a8a21da2,e0c0c8e5-2470-4b5e-84de-4f49fc8aa5ea,Very satisfied.
+f8e69e01-f8c9-4d1b-a79e-c74c753a67c9,d3548d11-8dc8-4baf-af41-c339a2e6bb85,Very satisfied.
+c567739b-8305-439a-a135-c7be484e2bfb,6d7c882d-d32c-4158-9e87-e5c39c5e6271,I am disappointed.
+24face55-ceec-45e8-9454-3618d6bf4a07,0c4b2754-72b8-4a6f-ba0b-0925925eec46,Very satisfied.
+80dff711-37bf-4d0f-af6c-28192512e2d7,e8c36be1-9ae3-4ace-afa1-6834cd90a263,This is terrible.
+b4637504-4156-492c-967a-2da3818559d0,c29a5bd6-3674-48aa-9509-56d050909219,Absolutely love this!
+55597068-0746-4bd3-8c3a-13b337e5610d,6b18e6a4-96dd-4d1b-b6d1-c7eb1695f5d8,Absolutely love this!
+cf29bea6-1972-4c58-a510-e3b960cfbbd7,380246c0-5285-4f12-9fa4-84e79079b61b,This is terrible.
+24744732-7238-4e3e-b079-0d3e7a6e83ce,a716120b-b2fe-40a7-9497-8201993d575f,Could be better.
+c6600403-717c-4ce3-9cb8-181ad5fd39b1,41dc583d-cd8d-40bb-b40c-9d3b299640ee,Absolutely love this!
+0a41814c-4c6e-4f64-9177-2a05522cc0e3,3ad52b6d-b025-4e2b-ad7f-22a7f71eed74,Very satisfied.
+dec3707a-ce9b-4dcd-a343-685f89f4e713,5e294632-d234-4d65-b7b6-c198300b8eea,This product is great!
+151e5c44-7af2-42d2-b4b9-95d03dc3f807,2562657a-2bb5-46c0-8d41-0e3c4e61d25e,This is terrible.
+2690c80d-23b6-4718-a5b9-f50b590588a5,8633f321-527b-401b-92a3-97a2a8233d9f,This is terrible.
+030821ea-8fab-40bf-ba57-9e100ff8506d,19bcf895-f58a-4d52-a4ad-21aaf95beb8b,Worst purchase ever!
+c9211515-4522-4aed-a492-1b524c189f10,047eebec-fd59-4a57-9e60-3b3fe144794f,This is terrible.
+a44b352c-9c08-4af4-af4e-54fe4ca8ea76,371e7866-d7e9-43b7-8e6e-6d405797b6b0,Absolutely love this!
+fe2f512c-3e8a-4c8a-ad47-1a9eee336537,ff2aa372-11be-4451-a97a-ec1e9ffea19d,Absolutely love this!
+827de2fd-b4a1-4418-9131-df181f319921,348e42a9-5534-464c-a3ec-786d0bced261,Not what I expected.
+bd857ff0-639d-4b7c-9455-949e6743c70d,24490765-dfdb-4565-a738-8383c97a16e8,I am disappointed.
+6c5ffa2f-58cb-4519-a50d-f17a2f47913c,e659317b-c23b-4eca-b077-2258e85e8e13,Not what I expected.
+881a4fd9-07f8-4751-92b4-8413ffafa0d5,91e57880-80a3-4604-bf10-c23510bbc41c,I am disappointed.
+356b766b-95de-4c30-9f5c-25ea754063da,18427fcf-878b-4849-840f-087ad5b846fa,This product is great!
+4236a970-42b0-428f-8161-0f5a4dcc64aa,19181b8d-97bb-4ced-b7b4-1dc154988eee,Not what I expected.
+e5bfb934-85b7-4520-bd49-dbce8e01e4fa,848a399d-0209-4f5f-a666-c814acc77da1,Could be better.
+161d5b21-f3fd-435c-8bbf-a2ccdb69261d,8fa34fb3-041e-4252-84ca-f1d74309d1a5,This product is great!
+f74b9119-645c-48cb-af8a-177bf57b333d,b24211f1-496a-4fe8-a6b9-e918ae62ad59,Absolutely love this!
+e4d23b2d-78da-424a-9f30-10eb68865f6c,da71cd3a-6af9-4ae2-add1-eab008646959,This is terrible.
+4055c007-beae-47ef-917b-b7e570692afd,1afd8deb-7b26-477c-8a3d-a79b92a126e5,This product is great!
+3b9cd589-676a-4af7-bbbd-8bff8cc83d11,f7a6acec-61fa-4287-b111-e5fc3f68570d,Not what I expected.
+d50a6d20-d097-47ca-9213-c2279e22094d,af5f8380-f449-409b-b1ca-d619039feb2a,This is terrible.
+c944d967-9389-43d1-abcc-fb5045049bb8,84d68bd4-f416-47a8-af0f-e8912f9b28f2,I am disappointed.
+4ad00c2b-92b8-48f2-97ed-7f1703028fea,33207982-abdf-4ea2-9faa-886837f21f62,Absolutely love this!
+e18ed2ea-658a-4054-a1f8-ee253034bb44,83813b0c-4a72-4ab9-9bad-db170ebe2e6a,I am disappointed.
+9d2d642d-ac96-4dd2-9092-09c15bd99f6d,06e45bda-be3f-4125-ba50-fbf4c62fec46,Could be better.
+6542cf1b-aff5-4555-9f24-c92b94b003bb,8c85a36e-5bca-4a50-bb82-de3604645075,I am disappointed.
+d37c4979-35c0-48f1-a579-eb0e3966e072,271ee77a-65be-4211-bd2e-d34cc01fedaa,Absolutely love this!
+8b856e03-3689-48c4-a588-1731324148f9,c052d31e-46b8-41bc-9262-132838b2ddf1,Worst purchase ever!
+fa9d5a73-f3b2-4f8d-a80f-c5c02d09d23e,80fd05b9-0f5f-4ca2-8919-8b3dc7d4ba36,I am disappointed.
+3d3c5ab8-aeb9-4287-8b5c-38bd7a8f8020,06decf4e-a148-46fe-a235-f8eb23dfa3bf,Very satisfied.
+c13b71e0-5bb2-4337-9867-ff377da4ded5,54309de0-5dc6-4f3c-b1be-8615cbe18aa3,Not what I expected.
+86f3f71f-96c7-4c09-9f40-905828723cd2,f6aca99d-c793-46d0-81b2-37f9b6c0aef3,Not what I expected.
+5b5ef4c1-7f7d-4e4a-b8fb-d27bb455adde,b85c261d-464e-4e8e-8412-0eaafe2925e4,I am disappointed.
+7ce5bbbc-e667-4f3c-85eb-7968a3b74266,99e4b01b-a799-437f-950b-6bf93f8e8d3a,This product is great!
+be2f4442-80f0-4b80-aff0-8c5ac4e40295,80446779-1122-40d0-be8b-8990cd7af36a,Worst purchase ever!
+fa0566e1-1a14-4999-9834-3158bf8e8dfa,054aff86-da52-496b-99b5-e2d4532e5805,This product is great!
+ebb7945f-4b09-4611-9fe7-95d87140495b,1c514f4c-677d-47a6-86e9-072be6b3b75a,This product is great!
+3704c588-b1f7-4770-8d0f-aa69460767f4,1049a79f-e26c-43e6-b7e3-685c3d9e425b,Absolutely love this!
+2002b974-2a25-4765-94b2-6a336b27a3cf,084562bc-cfae-4a20-8717-181a42aff34d,Could be better.
+53fd3d52-1ac2-4484-ab4d-fde20daa8ffd,5bf80672-daa4-4adb-b9b1-f91c30da454e,Worst purchase ever!
+61cb8481-43fa-4ef8-837c-402c4b6da1e9,d8afece3-83f3-4c23-bcd4-4664a6ef0ce2,Very satisfied.
+2424f4e6-7f16-4c35-9bbc-7c07d3750817,6cb68dda-ab96-4064-94e9-eb4e092d1574,Absolutely love this!
+cd3dc0d6-8505-4708-a2ab-3bdbe446f004,b9487fcb-3dd6-4bcd-b649-5a8a87ff9603,I am disappointed.
+11a2db6d-e143-46bd-87a8-e73d9872fb21,9333bd9f-4c39-4882-b440-41391dface7f,Worst purchase ever!
+8ec7ca27-4a27-4d28-b29d-273aec6366c9,ee3a84b2-2fae-4a22-b7a7-ba52fe7a89e7,I am disappointed.
+55e6e1a8-7c34-49d2-acfe-2046b30c50a4,0b432730-024e-4469-ac06-4e208b060d8e,Absolutely love this!
+eb60d1b7-2c68-4e96-8cf4-853c51a6c376,647fe55e-09c1-4101-a676-e5091a3627b9,This is terrible.
+f2ebcdec-d481-408c-a903-531505c5a3ec,5a6610e8-a9e2-454e-becb-5aa83c5c9172,This product is great!
+eb4d425f-fbfd-4d26-b93e-d2d628cf7dbb,10c86e40-be13-4fe2-a1aa-c7007e6bddd3,Worst purchase ever!
+926390b6-b879-48a0-b415-390bb1d0bc81,d7d751dd-0848-415c-9b14-6de77b39860e,Could be better.
+51262f31-29e1-4951-a40b-89131786de3b,a7a80dd4-a2b5-4b37-a5e5-fc1afea554a0,Absolutely love this!
+32f9dff2-3af3-4ec1-ac1b-bf27045adc11,871c9586-21cd-4d6f-af8e-f608c917e319,Not what I expected.
+3d44baec-551e-4dde-9fa5-c7d79d172478,12b8f4fb-6415-428c-925e-97cde1abfa6b,Could be better.
+4ce9fbf7-e491-42f9-bb2f-fd2fd6ab4720,ad40ab84-bdcb-4e98-8cbc-4b323157588e,This is terrible.
+2f90175e-619d-43b5-b3cf-976fc1e5ce99,f3186ea1-5799-4c57-9f1e-f1e06da3999d,Worst purchase ever!
+ae02cf8b-6b63-4f34-b8a3-bad6f6b76916,1d9c92e5-40ee-475a-bd95-50e1d74b41c8,This is terrible.
+e971845f-bedf-47b8-8936-5af86df067aa,f883e778-d4ac-4c1a-9448-45a10fdf3918,Not what I expected.
+ab08ff3b-aa65-4a21-b48a-89e228f9735a,e3c49a7b-795d-4b59-b30c-4cc6a189f6c7,Not what I expected.
+69cb3b9a-9440-4534-923d-4e74601f1cef,fc6d6804-05b9-4cc4-94c8-e414a1625914,Not what I expected.
+2509d397-d019-44a8-b648-6e9e29148f54,114e454d-b815-4db3-b9ea-2f317da8dd18,Not what I expected.
+cdfbda91-a971-4205-b754-94d23849eb78,6f7ca990-5ef1-40a5-a930-eb057f499c77,This product is great!
+e97849ef-014a-48f7-aa68-bd409878964e,e153e98a-771d-4a7c-827f-e629ffc2c9ea,Could be better.
+e7540dae-e309-4a61-8df6-8871eb55849b,e075182a-3470-4980-a5a3-abf9c261d91a,Could be better.
+59748b69-a3c0-4435-ba1e-58154a227625,76316437-8f38-4b1b-ac41-b2000bedc138,I am disappointed.
+1d6274e7-5cd4-41b4-9061-a9ec9263f4fc,e5842acb-9663-4b19-b7c9-e12cc1f6986f,Not what I expected.
+7c2a3be1-53ec-41fd-9f5a-51c72d552f91,4eb2030b-b94d-439f-9df6-3ba49088b741,Absolutely love this!
+fc49e731-d32f-4d4a-a058-408565f0eb8f,29627c79-eb87-4fbb-bb41-399f4217a829,Not what I expected.
+26db297f-66d2-44c5-a1ea-129c17542209,cd61c3d4-0552-4e17-80ef-face28f62020,I am disappointed.
+e8a0360f-1466-4d8f-9b79-0160210de2cd,953e2184-dfbf-4e8a-89ab-59ed3ab19cfd,This is terrible.
+94bfe7f8-d776-4ce7-b001-a879eb84ba1c,df736c75-4205-4698-a15c-349f1c2f3081,Not what I expected.
+95dea79c-61f0-41a4-a14d-ca424978be41,518e451c-50ec-421f-ac3d-ef659a3ce49d,Worst purchase ever!
+e645f9a3-d236-4988-9cb6-5c1175427dbc,36ecef1c-4004-4cf7-b86a-89ea5df6142a,Could be better.
+8a4167a3-9757-4710-9c1b-47f9944e9145,294b5492-2aca-4557-b317-a1cc253e99cc,Very satisfied.
+937ead9d-4877-4c33-ab4f-3584e099d0a5,5b1ded34-c915-439a-96b1-7d018dd9a86d,Absolutely love this!
+26208873-97cc-459b-b145-4e465dc3763f,02774d3d-3c32-4dc0-9aca-322554a9953a,This product is great!
+88a12436-ccfb-40c1-b18f-5188588b1380,0f943e13-0c66-400c-b0ce-2aeca991ba47,Very satisfied.
+4abfa60f-2a46-40c8-9ffb-94f66b74f985,bc4c2244-05db-4d40-a5fb-fd18e50bdb62,Very satisfied.
+cc6e3bd1-115a-4185-8d77-e8070fc3f9c6,32c119ad-a4da-44da-a3be-18b46caeb728,Could be better.
+163068d8-5b69-4af0-a360-349d15aadbdd,4c13b5fb-af5e-42a8-9982-7d1c504ea693,This product is great!
+9612016e-40d7-4f0f-8c6a-98e5bd04ad23,5d6e60d0-0311-481d-b0ce-0eaf89df724e,Could be better.
+a1678e14-b167-45b5-aac7-b6d0ddbec604,c159117c-d885-4720-a8e8-8bb82354f439,Very satisfied.
+027a5b3f-47f4-4172-a308-822b201d76e9,0e047e83-e525-4410-a067-a8fdc5b58ade,I am disappointed.
+843d7cc5-0acd-4f69-90b6-3603f9b799f9,72b11350-b7e7-424f-8ec1-aa1d0580ad7a,Not what I expected.
+e5fded83-d9d4-4dd2-bd13-2566b518ffff,25fe19d4-026c-492c-b4bf-9b4f9070e9f1,This is terrible.
+6c33e8a5-25dd-485a-8ae6-5dea341d0be9,252184d7-28d5-4115-8bbc-4b2f96ad7c89,Not what I expected.
+e6ecac59-eab7-4da0-8e29-dd99a4c7de41,c2337494-7d8e-4ba8-800a-f30ac6d5379f,This is terrible.
+7fa29822-3316-416e-8aa6-bf1482b22629,ebdd9043-49dd-49c0-ba7e-ad1e13af9693,I am disappointed.
+d70d93fc-5792-4426-b959-9a7e151eac72,ba7d845f-96b7-4730-a5de-2fb2807fee5e,Could be better.
+eea98c0b-af9d-466d-b69f-9e32e7a51f1c,311b55c5-a622-45df-a8a9-9d389c22d426,Worst purchase ever!
+813734d3-89f6-42ed-84ba-368491ba43e9,d630c01f-02e4-4b47-9f64-ef3dd6b04513,Absolutely love this!
+8050d545-274b-4492-8e05-5845470c40d7,ff196bcf-98d3-473d-b125-057bc65f3816,Very satisfied.
+79119fe3-8193-42e9-bd1e-3736ae94aad6,0ec040f0-e8b3-4e48-be73-379080027290,Worst purchase ever!
+88a8267d-8c1a-4f80-8cca-5ef0990551d7,94c9b350-2446-420a-94d8-4ff5e63ab6af,Not what I expected.
+de476fe2-85c8-4402-b470-5a561f462893,813829f2-fb6e-4369-8d8e-a1f65ce60115,I am disappointed.
+32cdb83e-811d-4099-bd36-46ffc3761940,92ece2e6-76b8-42ef-a08a-8d7694e39b47,This is terrible.
+7b2690ea-9d1b-462c-8a06-6a82f98d24e7,35bc69ba-c63e-4876-a1fe-5b421e0716f7,I am disappointed.
+2513c16b-28c4-4b28-9746-78ad470bf85c,0f9342e3-7e86-408a-ae0c-a740d0ea1fce,This product is great!
+928ed545-7c65-4520-8ba1-0659c80ea13f,df380f57-1005-4794-b54e-8a1520119dcd,Very satisfied.
+0a11556a-f7c1-46cd-95af-6ae5c541d96c,c989858d-b558-4f12-a364-25baa1ca23e9,Not what I expected.
+7ac20df1-793a-44d2-a84a-07e4a26b7e12,de29af61-262c-41a2-96aa-e176ce9556f1,Absolutely love this!
+dc3783fe-188e-4972-893d-6e1a4b6824c4,e21b4fc1-4c1d-4604-9c87-85d8c57a4046,This product is great!
+d5c1c263-0f4b-493a-affe-25dc6d80394f,d501f3af-05cf-442c-9c8b-d0a4f573972d,Could be better.
+bcf88530-986f-4dc3-87aa-4ec9e619ea80,2dddc30f-80dc-4ea9-abd7-731a8ea1b33d,Very satisfied.
+d3ffbf24-e8ec-410c-9c09-c6b5d3856ef2,c8cd055d-44d2-45c6-a5e0-cbf8a1df2958,Not what I expected.
+e491fbee-9ef4-4df4-9ff4-7b69c2330765,149b564c-e16b-40cb-a73f-f442cc48403b,This product is great!
+16572922-bbee-4173-a7f0-b0927d70e7c0,b3df1fa0-173d-4d7b-b78c-063c4e56c276,Worst purchase ever!
+8a2c4960-5212-4387-b045-1f58183746b0,8084e5ab-2786-4dd2-8e60-13d227d8fb08,Not what I expected.
+842632a2-e38d-436b-bc82-f3956ecd80ed,fbe2f31a-24a6-45fd-9f6c-831c856b5f80,Not what I expected.
+79b1a26c-faac-435f-b99b-207180f52947,5d722905-53ce-4d42-b213-d8ce2f5a0b79,This product is great!
+c563f650-b44b-4b5b-aef5-39613830b4f3,a274045a-d9f0-4fe4-90d3-f89629352d3f,Not what I expected.
+066bc1a9-b7b3-42bb-a0f1-6d7a0502d5e2,1f8bbfa1-6725-4b53-8062-c32d35bfa6a8,Could be better.
+a780f194-d846-452e-aaba-eade3dcf172e,49bf4b0d-0e6a-4af9-8fc2-636a1ac962b2,Worst purchase ever!
+864350b6-2b42-4293-af2e-fbd7987aa81a,f445aae1-f4cb-423a-9de6-57711fdb75b3,I am disappointed.
+4690d530-91b2-420d-b88c-8454abeac55d,a536120b-0e97-46d8-9347-dc16656b0814,Very satisfied.
+c418b763-1a0f-477e-81ba-3ad6ac3436fa,a72279e5-880b-4756-99a5-09247c04beda,This product is great!
+a9d345b8-4d4c-433c-9c65-77a7d42cb8d7,34cd6e3f-4e4e-4237-af94-1793bbaacd84,Very satisfied.
+ce2553c7-ccc1-484e-af9b-139cee0606e6,824753f6-1a60-4ffb-8ec7-47332af57171,I am disappointed.
+627c632c-0ca4-4b62-836a-47240d4fbd6f,19049277-bb11-40cb-bb04-53f94d89cb93,Very satisfied.
+e3bd8a14-3cd9-4cdf-9867-8022c6348a3a,705b344c-f6a9-4823-9510-4e376500f4a7,Absolutely love this!
+4cdd05fc-22b6-4c6b-b64e-52efa32d10bf,4722a449-bef6-4134-aefd-2c6ff34a9ef0,Not what I expected.
+6a5b7da1-789c-43a4-97a3-1775d20fbcb0,fd77e4bf-8100-4e8e-aaf2-d4c2b8cd1281,Could be better.
+65b044c7-faf0-4877-ae5c-4fbe637b38ec,00839896-0fe1-423a-996e-9075eb96b2c0,This product is great!
+25dec5ff-f03e-44ca-8cf3-4a9769a6dedd,12806171-d54f-482d-82e5-825f1a227f67,Worst purchase ever!
+bbad9f26-6ee6-4058-83cb-d0603a4657ce,d015846d-ddf0-404a-9bab-701c36c4859f,Worst purchase ever!
+db3f3b1d-bf22-45f6-bf86-9cf80d33ae67,4f970f01-d065-4233-b2e9-940405b1ec50,Not what I expected.
+1f0a7b4f-ba03-498d-bf15-a82a415004bf,3e268c1c-51af-4ce7-b519-c5b16cdcc0b3,This is terrible.
+fa9c8a95-863d-47d9-8c91-8e06e2f2340c,2f821e9e-7806-49cb-a227-e54fd7873661,I am disappointed.
+89a6424a-e37a-49db-8fb1-3f8824cbbe13,616f67a8-7852-4904-8812-a70979fc8dcf,Could be better.
+693ccb17-809b-4d59-98b3-73f3bccf9e52,536f2907-ec41-4275-b8b4-1fe2261243a6,This product is great!
+120dc138-8f6e-405d-975b-dc930dacd8b3,ecdb2e56-bfde-4fa8-992f-9844faeca127,Very satisfied.
+9cadfcb0-3b2d-405a-b51c-f4298f9bae07,0929f7e9-2550-4142-bbc0-5443efcb9f8b,Worst purchase ever!
+c5b818ab-5223-4c55-a6b4-418216967772,d5ad09d6-0ff3-4dab-b6a6-d838a2abdff1,I am disappointed.
+4490d25a-9fd8-4785-8cdb-56f6d1875194,9edd4838-2196-4e18-a7dc-8b2e62538262,Not what I expected.
+bc2df5b2-6728-423a-9e14-b83e3352d695,bb156226-ac8d-420a-acb4-f996f50408cc,Absolutely love this!
+52e10868-4a5d-4af6-b876-440e0ce95a94,84b198e2-ee36-4272-83da-005f63ac0045,This product is great!
+e0a5f0c6-00ba-415b-ae31-0908823fd56e,ec45f04a-42d8-492c-822d-b87a6d02d0fb,Worst purchase ever!
+1444bf71-2ca6-4914-9b10-92360f37fcd6,20009f3d-f1d0-445a-baca-6732c1926d83,Worst purchase ever!
+34e5e83f-99ca-44ef-ad74-23f64aa88f4c,da780afd-eb1b-4928-bca2-3f85898d29bc,This product is great!
+92461926-4a96-4169-8be2-c21ea20d402c,412a641c-1604-48e4-b1ad-79e24d96a0fe,Worst purchase ever!
+ec294d76-4d61-4947-8e63-3a8706c79162,474a3c43-60b6-4879-b4b1-f139d07965c6,Very satisfied.
+bb10284e-a2f8-4b3e-888e-4a98bfccef21,c5d7f1d5-3a64-4115-92ed-aacbd7a89114,I am disappointed.
+95aff397-9043-4ec5-8d51-7c5d2fc5850e,cdc8bf6f-82e9-45e1-9c8c-42447dbbe89e,Absolutely love this!
+97e66998-37c2-40eb-9ea6-6ad18692f676,0b6b0ff2-1d5e-407d-bebe-a5e9d1f939b4,Very satisfied.
+865e556d-cb41-425c-87be-c5b4288f6e52,f28fe21b-8659-4a60-89cb-5727096da0af,This product is great!
+fbf80722-bc2a-4658-9e88-491a7ec932b8,31dbc40f-7464-44d5-a717-2bb27b7bb5a9,Worst purchase ever!
+0084c9aa-b1a8-4fe0-9c3b-799b8c32be04,306701c2-139e-4afd-90c2-acdb1fed2221,Could be better.
+8afd9a61-3770-45af-9fa5-f4c8d1c9448e,9f1eff91-ccd2-4ec4-b223-539e1edcf5ec,I am disappointed.
+d796052b-9a10-4a80-ba07-ba154c87ea39,9d6bdbb0-4a3f-4e2d-8a00-c2a7f897cb23,I am disappointed.
+19f8a63c-864a-41d4-8cea-d19333455ad0,f783c2e9-fb8d-4dd3-a459-fb7bc4c8d88f,This is terrible.
+5c8edc21-b735-42ef-a008-eb6dfcf90a3a,66c8f394-feb2-4f24-972a-adf1b13c8c9f,This is terrible.
+131d088b-874e-4efa-a928-5203c4b60706,030105a8-b772-4d81-a7d8-8fffcfec90c9,Could be better.
+cccf7784-686b-4799-b68f-70c87c0bb2a7,f9ff3f3e-3aa8-4406-8eef-3ba11cf5a269,Absolutely love this!
+56fd54d3-8040-4465-8e7a-f775f3b669f0,4cefd08d-a9dd-4d5a-bad4-df53466e6700,Worst purchase ever!
+311971d9-1033-46dc-b9fe-8b643b4eded8,17936ca5-9e38-42e9-9f35-dcb649b7bea9,This product is great!
+5a5b9c04-3d68-4522-b5c2-1f58dd023e28,8a64d9ce-7b40-4a2e-9ef4-ce24b2ac397f,This product is great!
+d14510ed-fad2-421e-997a-f03d6263c8c5,b0ce2dfe-e63d-4ac5-8f25-e928b94e772c,Could be better.
+df74efbd-10ff-4390-b06d-20313f7f8105,be7872bb-e17f-4658-a94e-fbebd93ccf26,Could be better.
+91848035-0ab6-453b-b331-ec6859fa16e5,ee0a0090-96bc-437d-9415-74f257fbdc7d,Worst purchase ever!
+968800d6-6f8c-40b1-aed1-c6ebcffdf423,6e5d4509-8c62-4b66-8516-c34c60201038,Could be better.
+989ac475-08a0-40b2-9bb4-42c628558a44,d8705dd4-ab55-42bb-9fff-772a2366f033,Very satisfied.
+5bcfb7d8-7b7b-4d91-b91b-84d2343cc0f3,a420ea67-0555-45c6-a0ab-80c0130bb70b,Could be better.
+578c1198-5983-470d-a369-c348037878f1,7cbfbf6f-c472-4bcf-b9ef-b42a8b64c0c7,Not what I expected.
+174f33ba-d0b5-4b05-96ad-8158c34b1223,4b506ed2-43e0-413f-a9f8-38ac254d1121,Not what I expected.
+07c999d3-035f-40e6-aaf7-9c2ab2903383,d74007c3-6b87-4d37-bb8c-5f4fc0fa9e1d,Worst purchase ever!
+abc3d9a4-b2f7-43ee-bc5c-a14e7fba8eb8,851a1e32-c247-4a36-81ab-883755f79c71,This is terrible.
+a210464d-6647-4999-bd0e-3fba81665b02,3a24a7b0-ae96-4a4e-8678-b8ef23b4b8c1,Worst purchase ever!
+a1a5ab9d-a76f-4706-bfce-a8ef8b55f855,af1e6c99-9d7b-46af-99e1-dc8b00ec97b2,I am disappointed.
+279adb37-1c0e-4156-9781-c569a561ec88,20a7e5aa-884f-486c-b6cd-cd3f04630ddc,This product is great!
+f237086c-ae2c-476e-84dd-ca227301c0ee,098d4dc2-7561-4d15-85fa-f9410053a072,Not what I expected.
+d59665ff-aa48-4f43-a6e5-5d6216d412a8,66a487af-ba34-4211-9ce4-3c70c6354093,Very satisfied.
+37765cc0-0624-44b9-a94f-2a1d792d5b72,9f76ca3c-0d03-4cd0-8d2b-51d0ec723f14,This is terrible.
+0dd4e411-0d7d-43e9-8fbb-0d029d022860,de8452a6-3635-4f4d-8d16-57b2d9c68547,Absolutely love this!
+9c539cdc-14b4-4c44-814f-4dd24199a79d,0ad51cd9-66e1-490d-b9b2-18d8881a26e2,This is terrible.
+cd85daa7-6bd0-4ff6-ba13-8ec4becdb0d3,f35f8109-2ca3-4955-8c86-fa25ca26efe9,Not what I expected.
+ed9d7248-bdb5-4d1e-afef-03dbd084038b,25cbdd3e-2c5d-4f8b-8292-3a785737ff7f,Worst purchase ever!
+0708eadd-3b9f-4d62-a6cd-c28c4a9d0a14,eb81e92d-52a6-4078-92ca-50078f96d84a,This product is great!
+57141183-471d-46f4-bc14-03f41f9f8b0a,078de9db-7aed-4f98-acd8-eb3b4a6db5f7,Absolutely love this!
+3e87f5cf-e286-478d-b383-b3732982f5a5,3592a98e-7d9e-49b5-9e1f-8016c4816a77,This product is great!
+291b305f-c0bf-470b-851c-01ebea1e2791,9549ce56-6a4b-4801-81bb-bec6836199b7,Not what I expected.
+f7ece4a9-241c-45c2-978b-6175996b381c,c6dfd376-6b7b-4bf9-8f6a-cebf263c2897,Worst purchase ever!
+5d06ace1-4c62-4ae6-b778-40844ab648c4,15054c82-a5ba-49be-852d-11a81c2cb604,Absolutely love this!
+ec9ea550-e676-4faa-9d7d-377cf65ec17f,11dfad2c-7b3b-4684-96f5-180f957a0542,Could be better.
+f4d2abf0-3648-4305-ac44-a3d59302a34e,e64306be-dca1-4bea-ae10-ee7ebf65a8ed,Absolutely love this!
+70efcfed-b534-478e-b118-8123b30b8209,b254aa04-5ccc-4601-8f26-408aa7aaabf4,Absolutely love this!
+efdd905e-8f5a-41d6-9894-f39921f37e70,005fcf91-4a68-4e2a-adcd-5bd088e00748,This product is great!
+69ec1934-5ad7-40d6-ade5-a2d2e05f507d,f5fd9f47-cf96-4505-8c69-69607cd7ef49,Worst purchase ever!
+585bb110-adee-42de-8d6b-d6f1329b70f4,08d3972c-18d0-4e22-b619-cdf670811edb,Very satisfied.
+ba6b59a1-f19b-4125-a54f-d2577fa4c543,2d6bbdff-b71a-4ffe-ae3c-4d03edb43754,I am disappointed.
+733919f7-db75-4eda-b407-9d1f45f55379,2510c69e-9ac1-4e88-a3d4-512524549ad3,Worst purchase ever!
+b91184d3-8974-4768-99dd-895febf0dfb5,6f93963a-f5d0-4403-9ac3-fc88f738c9c3,Very satisfied.
+e505c0ea-7a1f-44d3-b7d8-93910dbdae87,45d01e3d-ebb0-48f2-9f07-25edd31d01e5,This is terrible.
+1dd7b8d1-4d66-4ef0-8ad7-5d136be6cb49,078430a1-eb0c-4c2e-b5c0-16b02514dff0,Very satisfied.
+c1269c61-0da8-405c-a36a-5706bc7afcca,d65dd6a7-e87b-4169-94ef-e2947be2d448,This product is great!
+2f4fde7f-92ec-4abf-ab49-196046e2cc16,f78c6b06-7dba-4d9c-854e-e4ca799ab434,Not what I expected.
+cf80cd8d-0249-402e-abd3-779f15ea4f9e,ff65f4fe-bafc-4e83-9fa1-cd6ab85932dd,This is terrible.
+608ac8a1-9693-4585-b3f5-3e621d684864,379abad2-29ef-476b-9797-2f705749e7e3,Absolutely love this!
+6b9ba198-9502-4185-b557-39c9623ec860,49fc8597-e697-4950-a7a8-ba117a425724,This product is great!
+81d67a09-32ce-4847-8668-2aab0a726f53,5ed146ba-6841-4c0b-9582-5aa5f9ae5221,This product is great!
+d69334e1-d92d-4d3b-ae6e-bf634a0f6d3b,8231fccf-1ccf-42eb-9496-0e22b42b4aa8,Absolutely love this!
+63008619-2c94-4986-85c0-525dff2f3c18,a7e4ec71-2f0c-4e82-8571-12b0dc0b6659,Very satisfied.
+f50c17ba-c16d-40a3-a06f-ca4ef748e44e,5b2bdbda-17aa-4c85-a50e-0a1106dcfbff,Very satisfied.
+ea937caa-3e00-4d3d-8a65-f564a7f6f3f0,fb73469c-92c2-4639-a18f-97529a03936e,Absolutely love this!
+e7b14857-a9c0-4ac5-98bd-d663c3792d0b,e0566975-f86d-48e9-a94a-51b0ebe10410,Absolutely love this!
+24402bcc-ebea-4a46-8486-e7cd9ca325e3,880a0660-6bb1-4dc2-b3f4-2316f0056853,Worst purchase ever!
+5f37c1bf-458c-49a2-a745-6d30d3913f35,644e0cce-9659-40c5-85e7-3c6898b00c77,Very satisfied.
+daf41ad4-b3b7-4a71-8b1b-b45fb6a15c86,736c69cf-ec67-4b4d-b47f-2341c71e53f2,Very satisfied.
+dde7db58-6d04-44b6-9ad5-d843c826c067,d3d22a68-ba51-4b2d-af2b-9b46c6b803e4,Not what I expected.
+ac8abf10-ddc7-46d2-8782-d3b7830a4f92,041fb05a-bb28-448b-b11e-1edde15a6d23,Worst purchase ever!
+6f9c0276-02f7-46dd-a3f5-883be9208abc,b8a63356-1811-4f66-9727-2fa865bbd110,This product is great!
+3121ce7a-a292-4cee-be90-de36c2fbb1ee,63e36806-d452-43c8-96c8-3aea8f8deb4b,Could be better.
+60adb7de-70a7-436b-94ab-36935711e558,ac425500-cec9-4f49-bc65-27aff5cc7192,This is terrible.
+bb632027-2a25-4797-b958-a7d800d930a8,394ad39a-cf65-4786-b2bf-03a18c1d0c5c,Could be better.
+cc18586e-c010-4e30-92e1-a09c8fc929c2,307cc62d-caae-4e83-a055-9b8787ea2acb,This is terrible.
+cbd25d52-e7e4-4725-89d1-69878627aa8a,de4c42ff-47c2-4d10-9b2f-3682955610e6,This is terrible.
+c6d405e8-44d1-4d94-ac28-f0c7e5ce9d23,408065a9-b279-49c3-a212-9803a6979c08,Not what I expected.
+2b96f5c8-f584-4576-b65e-b25b8a73520c,c25c95a6-bcb0-41f4-9baa-a7862a3b88e2,I am disappointed.
+94bb71b3-8abc-4dcb-aa89-f51de6f28d9d,1f891eef-fbbf-4dc0-ad01-8ce2aed086cc,Not what I expected.
+a5b99fe6-edd8-4a8c-a24d-b6ce8373a525,e9819976-ad4c-4553-889f-f9a9d0595a27,Worst purchase ever!
+e9e3239f-727a-4e18-ba4f-0e6f5c39c81a,657c6545-d1d8-49ed-8947-4fccd3b253b5,This is terrible.
+8987193d-49da-4785-8856-fa1fbad150c7,3aeff011-20a1-417a-b9f4-c3d9c6f6abe7,Very satisfied.
+2c21393c-8c1a-4a71-9aaa-80d2d74fd5f7,c95c5f63-2b6d-4cd4-b92c-7e9d02b047a6,This product is great!
+1f5dcc7c-8436-48ec-9af7-dfa4d3759dcc,db2c73b1-36a2-434f-9975-d655ecfe814e,Not what I expected.
+26cab5dc-25c1-4621-8bcd-63323c541f65,b19f5ee9-2615-43ec-a9a9-edac6c897834,I am disappointed.
+7eac0ebc-4bff-4466-9707-24adb45773b3,2f982f03-16af-4bb3-8e8f-287a6b013809,This product is great!
+5ece96a3-1499-4824-ae55-a94253480204,c82bbc60-70d8-4310-832b-a7472974d39b,Absolutely love this!
+908895b9-f1bd-4c25-b659-b16e6b76fafd,1e571302-568e-4f96-b0d8-0e7ea6f91aac,Absolutely love this!
+502d5844-e926-462f-9c21-6f7c336f8d48,bd545f36-8839-4c3e-b9f4-9dba568af45e,This product is great!
+fe57aa57-7bbf-4622-9d9c-fd950c14be9c,5a99ed11-23c6-48ca-a56e-fd301d8a6200,Not what I expected.
+c418a735-6cb0-4211-aff0-66216c43b043,001770e5-291c-4569-86fb-8dccdb2fdcf8,Absolutely love this!
+b5ed737c-ab06-4528-ab4c-1d2d7ea85509,e056217d-399a-447a-a63e-44150c4645fa,Not what I expected.
+76a6151b-63d1-4d0f-92b1-acd3e1f43cf6,fd10e06e-be59-49d1-99bc-b13d71911fa2,This is terrible.
+238ce0b5-ee80-4400-8092-0321a24503cd,65a31bd7-d076-432a-95fb-7528e88ff319,I am disappointed.
+d3894894-0358-4cd0-9da5-b8c94807adf3,72c8cd1f-3367-4936-9b9c-59ad52516edb,Could be better.
+58175e12-0446-44fb-89f3-362fbf598a0a,653e3b58-abf0-4d0a-a494-5ab9cd4c2afa,I am disappointed.
+bbfc6a58-7c1f-438a-8540-98e9a1bf45d7,430a2df1-c656-4bc0-b541-5fb4f4d61753,Absolutely love this!
+fbc3f58a-0f75-4678-933a-f0f7e3ee1868,1802b527-7999-4b2e-9362-832e1d619dbe,Not what I expected.
+19dbdae8-73ee-47cf-b7b3-019660cd5f9d,fa27cbd6-61a4-47f4-90b6-8083f94ee377,This is terrible.
+cf8fac88-6b89-44d2-8976-8f6de261c5bf,e74b9e0a-92c2-463b-b416-df39748fecb2,Absolutely love this!
+8892c0b6-43ea-40e8-a2c9-01a173e7344d,cd468bd3-d0b8-478b-b6a8-3af2b7969dc1,This is terrible.
+0febc28f-9a29-4730-b0c1-9eb4e998e27a,a4399a48-c8c3-48c2-ade8-76a3b3e73a33,Absolutely love this!
+eeb33f51-eb6e-4899-8bf3-b1e948321949,435d6b7b-281c-4ad0-a6bc-050d28d22d97,Worst purchase ever!
+b5af4703-b3fb-4526-a00f-0d8c4ce62d4c,7dac3a2b-f6da-443c-be7f-e18a72785db9,This product is great!
+56ab5022-1572-403f-9e31-0ab3c7ae4697,808320f2-7493-420f-8b37-d436c8498ca1,This is terrible.
+d95b62c6-473f-4d5f-8468-3d973078cee8,9a541abb-6960-4f69-911e-a85f55c81269,Absolutely love this!
+a7d119f3-b337-4866-8f1f-40c1278d666d,4479b747-6a83-454d-a7d4-a826d40cec86,Worst purchase ever!
+bf6ba719-1dc0-48cf-903a-a841733d1acd,f6b50d20-225c-4944-9463-e0166afae355,I am disappointed.
+0914469d-5915-423a-a95b-09c370f44ff7,ed2fd668-bf88-4d31-9419-7cb59c88d04a,This product is great!
+b09ef695-2bc4-4a49-a35f-32858bc184ef,f3bbc58b-103f-4faf-9b40-27fcb4b58a07,Not what I expected.
+071b9533-ab49-47d4-9ab8-34c4a9c7f6ff,7f87020e-291f-4dff-b44e-fffa8ade24d6,This is terrible.
+88feae1f-5a5c-4f0f-89d7-b2b22c95fa95,1b839b04-20f6-42d3-83ad-fc8c8fada04e,Very satisfied.
+fd17d9e3-00b7-4bce-b6a0-eb0a33347f26,189fcfd7-36df-4d3c-adf4-ae6ff5a6df5a,Worst purchase ever!
+922afafb-70e9-4d86-b134-64c43a1a672c,a6146607-e486-452c-84e2-acf141d38628,Absolutely love this!
+629cccd6-24e0-446c-b4cd-f9de39c15751,9542f640-3e05-4cbf-a34e-72960e4c82ee,Could be better.
+a0e5bce8-3f8a-40a6-9081-bcf006a3a32c,49ad3f2c-46d1-4b19-8380-4c9f3c717b8d,Worst purchase ever!
+ce92c758-d728-4888-8f8e-ba80ef5cd6a1,207c8817-0954-416c-8c43-286066f5c540,This is terrible.
+bb49e6c7-d162-4cfd-b527-3677c92b0080,afb5d373-8df0-4ec3-8cc3-22bc68d1a314,Worst purchase ever!
+f0460813-1edf-4fd7-8445-305a9151d413,574cd3aa-58b7-4c8f-8cdd-a17e57b6eb3d,This is terrible.
+e48b4b2c-3780-4850-b2c5-1c74f7dd2d3a,8d565bb1-3af2-491b-b580-e360b115401d,I am disappointed.
+7ef58ba1-6a8c-482a-ab36-e4d51a7a9632,8bd7f54a-e6a3-49d4-b15c-f95805975b63,Absolutely love this!
+0c1ac279-e788-4974-834e-f57470ec416c,f9293bcc-08e6-4427-84c0-613b41b212ce,I am disappointed.
+cfb9b438-a5d7-4f05-891d-1ad68fc4331e,3cdcc014-799f-4b30-90aa-5b0cd567687d,This product is great!
+be0ff3b3-1cfb-4ad7-8f76-9191e2d66163,c5b717a7-ca74-4b2b-97c0-39f977d18d83,Could be better.
+802f4a4a-840f-4516-84d9-61a2ad214435,287466f3-29f1-4864-9cff-7cfbd290e716,This is terrible.
+ba3e99e2-6f1c-46f3-afd0-d1c7d3947440,cd81bacb-ab7e-4f7b-babd-d87cf34312b6,This is terrible.
+9de0027a-a5ef-4600-8096-627cf49855ba,d46d325c-c0a7-4f51-b649-974bf7efc5c4,Very satisfied.
+7e250941-d602-4adc-8b4a-37d63cba2386,1d069e83-29f7-40a1-a060-44ff5a1b177f,Not what I expected.
+ecf6a786-74f0-43d7-828c-46821226cb71,0c2728a1-6ddc-4768-8f2b-f5925c5c3c95,Very satisfied.
+db4f404f-96c5-4e37-ac59-380b71425bd1,0379a7e7-c8d8-4d5e-8a99-5765ca6036e3,Absolutely love this!
+a3ef1cd8-aa0c-4026-8af1-b60a9e7aeb1e,76011adf-e874-402d-89a2-a9b30843e053,Could be better.
+14c50840-97ca-4c99-b2c6-f4bc26d8ed69,dd1006da-bebb-4cf6-8df7-6de27f2541f8,Not what I expected.
+b2c7bb0f-5b78-4643-9466-667b51ba7ec1,0ab39f36-a6cb-48c1-b972-bd165ceed994,Very satisfied.
+9da3308b-dc01-40f2-b62e-58dcde77518f,f2fda77c-4a60-42de-a2df-fc38630056b5,Absolutely love this!
+7dfa7941-58d5-48bf-b59b-a54efdc2dd48,7f9d97ee-22be-4ded-b065-3bf92b210165,Very satisfied.
+20b14887-1df3-42f8-9384-27609cd1a6f4,3b159a8e-5066-4a8f-b25c-c97f310a1c35,Very satisfied.
+f737b6aa-402b-433f-bc33-720b7a8a5f22,0868e99b-0162-43e3-ab38-ae4a1151bea3,Worst purchase ever!
+d128a2e0-f97a-4955-9477-8131e6f763ff,e879c7d4-b86d-4881-9311-3e5b9d05b534,Not what I expected.
+42a1b95c-d267-419e-bd49-f9e9b022500c,f5c01728-0209-4e10-b852-61a1c872a507,Could be better.
+dcb4042f-4014-416d-8ebd-bc344d8c9f4f,ff8b35ed-9ac2-4a5f-94fd-6351ddedf073,Worst purchase ever!
+762781df-a4af-418d-943d-7c850c741e11,648037a1-b458-4ec4-afc2-ce283d5e2fac,Worst purchase ever!
+d83cd6fc-4b15-470d-b818-3ce79ce4ba31,ef7977c0-ddbd-45d5-900f-7d38b0069075,I am disappointed.
+041fd02d-efcd-488d-ba26-25c61ae7ef50,518e142e-10e8-47ad-8e72-a358a5333603,This is terrible.
+65260678-e767-4286-989e-f4aa219e0887,421d171c-60b5-42cd-87bc-5b8f2c6f8064,Worst purchase ever!
+1fb235af-a4a2-4e2a-bfee-491a8fecec5b,0b68c6fe-225b-4b3e-a8e2-3621e30085eb,Could be better.
+a5cb341b-31a9-4dbd-a002-bda44e653196,e7c6a44b-f91d-4d1d-b603-997126d37cfc,Not what I expected.
+059bb3d9-f4f5-4453-9b25-bd7bf03839d3,bfd13a40-aa0e-4f93-8452-1994875d8c9b,This is terrible.
+3e780ec4-eb4a-42fc-96c6-04cf5169292c,a8178292-b265-4b80-b236-164ce99f40d2,Worst purchase ever!
+2b4222f0-667a-4bdd-9e09-b62af82ef98b,6dbf428d-0a9a-49df-aa45-29064ea847a9,Could be better.
+2f3bcf28-59c6-4e28-b4c8-c4ae74a8b082,e8e6d6b1-3076-4560-88d8-a3d36b73a306,Absolutely love this!
+a0931fff-bcb1-4b45-af08-889b5857d7f0,56f23475-91b6-40d5-a887-0e217086ec12,Worst purchase ever!
+f5d188b6-7216-44a6-97e2-a0063d764ea9,afe11786-dbaf-4cbe-8e13-c2bf839a3a31,Absolutely love this!
+0738cec6-86c6-4687-9bd5-ea26e599e9b5,d816e037-d53d-4a3f-9f9b-ac66d24eaa52,I am disappointed.
+5993adba-be62-43c1-a668-95a430fec08d,2ac4322d-e4d1-4023-b3f3-abad12ce4326,I am disappointed.
+baca5e6f-a5cb-4738-ab2c-067958796997,fe70e7de-95a8-45da-9732-6d13ed323533,This is terrible.
+448384d9-d04f-4ec7-9c09-bd71a2631877,aa88c63e-3ade-4850-8b5f-f0749b469369,I am disappointed.
+83df01a3-a843-4660-9ad4-052a5246e052,a08644e9-1503-4d33-afeb-f683aef01b04,I am disappointed.
+6f3a973b-eb9b-4e4a-879a-2c7245b82c7b,f5f19100-474d-4bd9-a566-77d6dbdfe2e5,This is terrible.
+d69fe45d-f98c-499a-b35d-54ada7ef6eab,8c145617-5152-4f42-8e7d-2ae2fab8a84f,Very satisfied.
+1df4f328-927e-4355-a4c8-8b5a11ceadeb,0e616193-8f11-4e6f-8424-07b3ef24b951,Worst purchase ever!
+3efa23f3-ca41-43c1-ba6b-78462455b36f,4fea4133-cc9b-48f2-a41a-96d0515c6ba8,Absolutely love this!
+715e08a4-c168-432f-a9db-2e533b9d907c,6515636c-7c42-4c9e-a85f-900ea9572344,Could be better.
+b9a99a29-3c07-4736-8653-5864410a3793,ff8e000b-f288-4db9-9ece-6a2df9dfcbdd,Absolutely love this!
+8ef4a0c1-3c5e-4e5c-aa24-1a2ed62a21cf,e3f08cfa-73a4-489d-8425-38206d77c63b,This product is great!
+15963b6a-47dd-4592-b181-ee6f765ffd41,5b3a5aa5-9d5a-4b39-830c-5ea1e83af842,Not what I expected.
+d56b1805-4eb1-4bda-b599-5352b55a0cc0,28ce9487-4bc7-4c6e-8245-2c93fde7da50,Could be better.
+5125c60c-109d-4b7d-8eb7-bfff04259f06,39c3b930-36d8-4b17-8add-148fc64dc0c9,This is terrible.
+f889290e-6539-4df3-ae0e-54dd894afd06,eda8709f-4198-411a-a951-98e1932586fd,Very satisfied.
+4e2d2abb-b0ec-4274-9efe-54ba4541bdf3,7666ad49-7503-4a10-acda-94b6e9799d7d,Not what I expected.
+cdd3c059-f212-40f0-9168-11b81225145e,068f7d3b-dff0-4eec-a1a8-0cb75f4d324c,This product is great!
+248618c5-2bd2-487a-a4f4-e7fbb54eda26,fa0c589c-b3ae-4f32-9649-5b4902c1b40a,This is terrible.
+38372574-aef8-4189-8cf2-3e49fac6d411,248dd711-eb09-4d32-b5c7-287575bade56,Very satisfied.
+57c825ea-3681-4df1-b338-7ab603776450,ed0a6389-966f-45fe-a01c-655591ec5088,Could be better.
+e1d52c1b-aa0d-4121-841c-ffd9e7dbeb64,376db00f-ac2d-4fec-902a-661637541edc,Very satisfied.
+c2df1134-18c1-4a15-8f4b-14291653983f,0b915835-e91d-4042-8b13-b4f164e81c6a,Absolutely love this!
+68269c2a-bba9-4dc2-8af6-e9dfc74b0482,3e9cbeae-b118-467f-a81a-3204cba27d9a,Very satisfied.
+516c709f-49c2-4fc4-9cbf-7eff75554bb6,bb71e566-d788-4280-be34-599591347e40,Absolutely love this!
+05f547d4-5cc3-438c-831f-92caec3b128a,39bf8569-6952-4d46-a442-24db7189890e,Not what I expected.
+3aacdeda-1d05-4e6b-b7dc-7506e05405f8,6037e4ef-aec7-4309-a9af-37b54447bdef,I am disappointed.
+3b480f75-10b4-484f-8620-63479370484d,39310e82-8523-4e4b-9e40-eb6ea0746b1a,Not what I expected.
+15320c62-2738-468a-a114-0f71356459ac,15887c48-6b44-4398-a96a-4786ef400230,Absolutely love this!
+42a44d27-ee66-40c1-963c-0dc208f84168,ec1390e4-db88-47c5-9570-f4663f87c8ba,I am disappointed.
+ab72de64-b1f5-42f3-bc26-9c1d9e576b83,ae1482ac-d414-4b5d-8c9e-1a105cdf288a,I am disappointed.
+158531c0-7245-4bfe-badb-cc808abd44ca,00f2df08-6441-468b-bf14-1088d0dc635f,I am disappointed.
+ba9277b4-697d-4524-843a-8c7c9297c266,294943fb-3654-4278-b959-557bd1c6b12f,Absolutely love this!
+22267dd6-b5af-4cf8-97ed-c03340549630,663f010e-ce31-4b6c-88bb-d387ce44248f,This product is great!
+610dba0d-33f4-4851-b55f-84aa70877abf,13041b8d-5d1a-4aa6-a579-ff50f61cecd2,Not what I expected.
+56d5eaff-b757-4072-a1b3-f1285968f108,a60ba0fe-39a7-42fc-a459-5868465d22e1,Very satisfied.
+c226c0ff-abf3-4a43-adec-fc88863f9d6c,f17733a0-6039-4720-93b4-f47d36113b9f,I am disappointed.
+4bf7f3d2-2d83-4325-9ab3-5bea2900cf54,0123a006-622f-431b-8c4e-9e49700cb8f2,Not what I expected.
+988e53ab-8f87-4caf-b161-375eea3ba159,081fea53-2e9c-4652-959a-45731e2c1017,This product is great!
+f67c1a43-ff7b-4c82-b7f2-c43e243a7106,1257cd3b-df72-41f3-89ed-260e1c0af029,Worst purchase ever!
+713d081f-e33c-4533-a4f2-540894f9baaf,41de4bde-1ed6-4d91-867d-f84789a2d7ee,This product is great!
+0e2453b4-8cdc-481f-b85d-b5a0d8a50e38,f28df129-16b9-4689-a5ad-74f80c7775ca,Worst purchase ever!
+f9efb994-37eb-48f3-9d07-025ae8cc516e,13754bad-8e1e-4318-b06b-c2d1ac5458cc,Very satisfied.
+a0db3a58-768e-45a9-ac28-4dd24dd1a38f,56b1a29a-424e-4577-9985-3253c2d1d889,This product is great!
+d902b5ef-46af-4be5-97da-560c6e9d5823,c24444e6-5e14-4908-8fa4-a7c68aba8394,This product is great!
+a43da173-a3af-4c94-8e05-b94c1705dbc0,ecf66b47-eae0-4050-b714-9f44114b2331,I am disappointed.
+0cdd79e3-4e2d-46a8-af54-922b61fa50b2,4894cd2d-3716-40b3-b753-464fc9f1ebf6,Could be better.
+e351cf3a-bea7-4c78-9b33-d36949c081ee,786fceb7-1608-40eb-9720-efb3d5e1a2ac,Very satisfied.
+be3cf2c3-d5de-4024-a71c-0813bc305daa,3130f5e8-09ff-43f3-9b97-1ae4e167b10d,Very satisfied.
+6f9a56a6-1808-482a-94cd-22d92c596a05,6c30f5b5-efd1-4d91-9fd6-950d64268138,Very satisfied.
+01c5a919-7f2f-4f36-9413-689afcd25807,05149c7e-ebbd-445f-a1a0-3423c10ac16b,Worst purchase ever!
+21654acf-cb3c-4017-8a6e-4004e6952e02,8cbbc426-2594-4484-bcf2-34154030b131,This product is great!
+42be92fa-162b-439a-8f26-3e757f3c51ed,fd644106-6745-4a83-b552-5bc63306da38,Absolutely love this!
+69d4c296-dbbb-4993-ad5d-af756415142f,9600a439-4f1c-4d7e-9cbb-f94bc1ede4e3,This product is great!
+4c87d020-8f24-4cba-9a98-9e7544260d1a,28ac7417-5028-4bef-a318-31a7578b29a6,Very satisfied.
+8abacdae-d9c3-4469-9d2e-ecf892cc387e,c154f893-5fe4-455f-b0a6-04a38958ff4a,This is terrible.
+a3e6fcf2-5096-40bb-a539-740ecbe21cbc,c3d9c82d-cb8c-4c30-b102-e29a8f197aeb,This product is great!
+504ec44b-1fd7-4b66-9dcf-76d1d4cadafb,842efa8f-7cd4-41a7-b09a-89603ad6359c,Not what I expected.
+f55490c2-c83d-428c-90f3-3c7e73ed2f62,ee86a13e-5041-445d-8bb4-6ec8d1c2c47f,This product is great!
+4ba2eb3c-9fe4-44f2-a28e-f0eb52f4cd56,4f0838df-0e8f-49d3-9d2e-f74b1796aeff,I am disappointed.
+7ead8177-f768-4e55-8a6e-5511b5b5ac22,0978e7be-09c6-47f7-992a-d0fac1c50713,I am disappointed.
+be7e633d-734a-4507-873d-c0a6b1dc762e,adce63f2-d3ee-4ea9-a76a-7b212e18bbbc,Could be better.
+d62515fe-4487-48a2-b193-1beaf78ca739,2f2a6ec7-7f1f-404f-b39b-23d603fe5b4d,Not what I expected.
+99675c1d-ddeb-46be-b16e-5cd875e8e991,674e9553-3eba-46f2-b00e-a8d8d99094f2,This is terrible.
+662e76d8-20bb-48d0-b661-36a37b63cacc,7e02695b-541b-49ec-a3ca-1bb504b47bd4,Very satisfied.
+c8a17034-ade3-4950-9f73-bf1c518a1268,2f0b6ff7-2810-4a09-84b2-0551a19b5f46,Worst purchase ever!
+6fc5a52f-e261-401e-a5e2-de715a41eedf,3b988d72-07a1-4c00-9d4c-81aa7d1ce877,Absolutely love this!
+58b9d9c1-d939-408a-b602-a9a947eb2bfd,e22a97d1-c5a5-42a1-8cd6-e66326bfc7e9,Worst purchase ever!
+e5e6480a-1250-43f5-900c-151bb24bc513,096c7ebe-c4d4-40ca-82e6-f33415fdac6e,This product is great!
+9923033f-848b-4b43-a5ad-c05021d47d45,f3e1f83c-5bf7-4027-97fb-33869f9c1eb0,Absolutely love this!
+66247691-610c-42a5-92da-75a9e1941128,80d0187d-4edb-47e5-aa8f-6a55acb730ae,This is terrible.
+fda88089-91da-4d0e-a944-560c98be5571,3131a7dd-55ff-48fc-a3d1-56366b25a65e,Not what I expected.
+0bcd18b1-224f-44a6-8753-e21b69bc4a83,3159fc8f-3e69-4b68-9933-24e5ffc2b94a,Worst purchase ever!
+4a37b269-5c8c-488a-9f60-c4cf3b4dc474,89f82b17-a843-4267-a9ad-005bbe3e708b,This product is great!
+5200a214-f6ac-4347-925e-b69a2bc3e6f1,800558ef-f50b-42a5-800d-786b20a1a185,Not what I expected.
+26d4eb12-6c6a-4767-bf7b-8ff56d672c9f,d36ec9d3-1c10-44e4-9c12-bab3af230ebf,Worst purchase ever!
+8c6efa59-c0f9-44b4-92ee-c4e4990bc6ab,36bc9a31-3f3a-4af4-8e2b-eec7151d5cd1,I am disappointed.
+37395644-069e-4b00-be43-b9873b5888a0,fda090f0-37ba-4e88-ab88-5d68601f461b,I am disappointed.
+75b22586-495c-4ec4-b195-9894c3d2e871,ff38b9ce-2d2d-4f06-ae7f-c425ed54c400,Not what I expected.
+5a97b094-2242-4209-86ab-3aa8d4d5f3f7,a460f5fc-7c39-4320-b7d9-acca788bf53a,Worst purchase ever!
+2cc8c199-9f59-4e9b-b47c-052ec6661314,49889059-f1ec-47f6-8f01-d61749d25bf5,This product is great!
+43fa4b2a-3d04-4d53-b157-302ad89ca458,12cf9b63-a16b-4d38-8bde-76f99e40683e,Very satisfied.
+f2fe4aa7-8815-4ba2-9f11-a883ee9be6fd,1df2e593-5260-4258-8ecb-69bed4055ed2,Absolutely love this!
+34c41e63-0fff-4d83-8095-15722d5a4480,80bef18d-fe9a-474f-bc7b-e8a64023a191,This product is great!
+d1d53630-225a-4c02-a778-757ffbb2e95d,95dd453a-84d9-4b75-8ba1-57e6075426a5,Very satisfied.
+14796a13-8ee9-4773-9da6-cb5deec54000,4f8fb7bd-69a2-41de-bcd5-1b1cd70caa84,Could be better.
+f3441546-dab9-4f3a-89bc-084c10c56340,40899bae-e2aa-48d0-9847-a5f1bc14369d,Could be better.
+310cab57-5586-4ccc-adeb-140de664e708,1acda5d0-f9de-4963-a031-c5aeda8b1ad8,This product is great!
+a6c09ce9-5403-4616-bf3c-c6011c92e8fb,31660823-ae43-492a-b271-f67351167422,Very satisfied.
+a385902f-5c0e-4611-a489-4c1c21387c8a,9e2af8be-eea4-4932-8032-e1a493277301,Worst purchase ever!
+f01bf7c1-8272-4402-bc06-a5dab11df86d,e5b3e079-f05f-4e6a-9d2e-59b8f6af5e84,I am disappointed.
+9f8c91f1-1205-4ac2-9552-115d1cf289f4,700af7c3-e35d-4d59-bcea-da80b68207c3,This product is great!
+c7ac42cd-2580-41cd-a1a0-77354023953f,0c0c5f29-f9e1-47f5-862a-db4e0b7d86cb,Could be better.
+5248a5a6-12d5-4ea2-ab00-1a10c56cbf51,43756df5-4bfb-4851-b51e-0eb4c7ebb39f,Could be better.
+aa8249af-5710-467b-b3cc-3d68197c00b7,f868c77a-7e1f-4af0-a175-b89376dd6254,This product is great!
+2e3fa44b-38a4-402b-9319-817504b26c55,2224da88-85b6-4d8d-9459-dda40d6b3902,Absolutely love this!
+b2dc7388-ddd1-4871-8758-81fefad53e88,f484b5f3-6232-437e-962f-0147485f114b,This product is great!
+8e70b8f4-8e13-4336-b776-aff11cb5d792,d9831919-22e2-4f8e-8910-ae3bf4c2bc0a,This is terrible.
+167dc92c-0c28-45c5-8e03-ff2b06953dc2,e9d80d3b-0667-48cc-816c-550205aeee94,I am disappointed.
+76a8778d-c723-47ec-8708-8ebe012aabb8,ee71df12-d6a0-4b5a-b793-a3007c934868,This product is great!
+e811b840-96c3-4904-b1ad-f62e628656e5,b7cead73-daea-43d5-9d7d-47987d049301,Not what I expected.
+13021096-c815-4897-8893-f6b1f574cdb2,cf573324-1823-4765-99c8-6a5b2ac090e4,This product is great!
+473e1b19-8480-47da-a6d7-fd50098dff5a,182a6308-1b97-4cb9-8fba-eec139092a5d,Could be better.
+0613fe09-84e8-4c9b-9048-c760d74196b6,078bc724-daad-4e4f-9938-eff4bfe5207c,Worst purchase ever!
+a45ce7f6-974b-42bc-a519-5b57e39ee042,72642e28-6a81-4384-9c6d-32e0a770bc0b,Not what I expected.
+25db1c87-576c-456d-8139-4c09d36dd54d,a0303e65-c345-4156-86c7-cc8d115d5afa,Could be better.
+b6a1bda8-0566-4327-94f8-7ffee989b142,d87f8e65-882a-4d2c-b482-36eed8faba17,I am disappointed.
+b1df5d6e-3417-4c10-b6db-c0ee36f58324,e95a48f2-9cc2-48ab-94ad-4a97aeaf08e3,Absolutely love this!
+f9452c88-1707-40da-a76d-f1728729800a,ecbe8a9b-e899-4c8e-bd27-adfd51b5e0f9,Not what I expected.
+9cb8fc43-78bf-4232-a522-8d10813122f6,b56f0108-290d-438b-afc9-e67886e4f06e,Very satisfied.
+3af0912e-2065-4939-8cf8-06d6f30b60e3,50240c78-6500-4f95-ba49-2bd478822925,Very satisfied.
+94de609f-5cf8-409e-bbb3-a3803676caa9,742ce3a3-4dd7-444f-88c5-14b4be4740be,Worst purchase ever!
+557fcdd4-ba83-4285-8fa3-0b4717b1cf9c,7f23ddf0-cf21-455f-8a74-cd922d4b0688,This product is great!
+ad7dde18-7f6f-4a09-9f50-f7162250fc7d,e22938d3-4daf-4e42-bb01-2dc339344c48,I am disappointed.
+f0344e05-0f46-44b3-ab20-79585bdb56e1,a71d515a-3899-47dc-ae78-97990aba2395,This product is great!
+ef16831b-e589-4ae5-a28a-dda4ed4e1ffb,4e3e3005-dadc-4bda-b576-d4ae90099fd4,This is terrible.
+805afd0c-007f-4651-89f2-b10fc1095692,c2160c80-adc1-4895-ad9f-84db8a2721c9,Absolutely love this!
+72a15768-ee16-4621-aa09-7cd34b598c11,13038904-7e18-4d27-a22e-da4bfbd1cee0,Not what I expected.
+d2d38b65-288b-45b1-983d-14709bd5c9e3,3f653f2a-bd44-4f11-a081-de6d40d9bbe6,Absolutely love this!
+e031e7dc-f1c4-4767-9246-5ef92cc5e4d7,71f54dd5-29a7-4807-8c4c-388d6a140e4a,Worst purchase ever!
+3099a49e-433c-48bc-b5b2-57c0d85b72e4,49fefc16-9bc7-4f3c-983c-5a8f07a95c89,Absolutely love this!
+9b4be93b-c43a-4a5e-95b1-e080d3aa1287,0ec63ff9-649f-4633-a0bc-87dae212f205,This product is great!
+d71981e6-15dd-48a3-a816-3c1d89014ae5,4c179350-4e81-48e9-8481-a4fc76ece0a2,Not what I expected.
+894f7902-4459-474f-bd22-245f4936b92f,8c389482-9307-476e-88a6-a89bca293e3a,Very satisfied.
+5ae5711a-0d79-46f6-bc5f-10d760b81242,594b43db-6f83-47ed-bb51-40221a19e097,This is terrible.
+d0c885fc-6691-40e1-9346-c332bee5c0fb,55b4cba8-fd16-45aa-bce5-dd0081c6e339,Not what I expected.
+d68f90cc-f83d-485a-bd7b-5f4e059ab51c,892acc32-b372-4200-a24a-146a5aea9398,Absolutely love this!
+ba219728-570a-4d8b-93c3-20a2f55ff127,5eb67b2a-086c-4cfe-ab39-fa8fabe2b903,I am disappointed.
+434f692d-2f35-414e-aaf7-29c6590df754,d5a03d61-8cf7-4212-a4bc-34e96f927c8d,This is terrible.
+892ef9a2-cefc-4e42-8171-d2baa1426f0f,f6b1663e-9b44-4f54-9c57-b035cf39cece,This product is great!
+2d2cd91e-4610-4628-8912-2bd9f3300ffe,72086993-d89f-4d2d-8f19-f5443087ef3d,This product is great!
+c9f21e46-c9b5-4ad4-95ad-cc6033e5183f,51e89105-705c-4898-92d8-76762546568a,Could be better.
+6b854cc1-5361-44e2-9c78-d4d63fa279da,6d797c35-2ecf-4b6f-8316-7da3e2336217,Not what I expected.
+59700323-fb64-49d5-9177-41ddffdf1366,e4d6a6c8-4c34-4b4f-b14c-aeddc1171f29,This product is great!
+bb7c44bc-bd1e-461c-b124-4fb5db666f15,c4c04d3d-d76a-4964-8f9e-a9994d0098ae,Absolutely love this!
+4a6c3d87-3d51-480f-9ecc-5a1c19c21a8e,832fa544-9252-4a92-8dec-2a9a337b51eb,This is terrible.
+981e664a-2129-4824-a07c-22c137d7928f,e15d6bac-15e7-43d0-9da8-473dea1f67d7,This product is great!
+d15e0e7d-1ef9-4e24-bbb2-ad914439ab1d,476c47aa-d8b4-4937-a01a-3f61b820c511,This product is great!
+88e34f83-f2ca-49b9-b893-36ba9daf3249,3aca85d3-aa3b-411a-83ec-87b898d4b9cb,Worst purchase ever!
+8c28f955-a1de-46fa-aa5d-10f281fbc6b9,8fc452d3-f097-4166-902b-bd482fed6b03,Could be better.
+821b4a96-e1ac-474a-a9f8-c591e547e345,7874185e-ff90-4bc6-ad50-dbe9416941e9,This product is great!
+d3d8a50c-948e-41fa-bf27-90188d7d71a1,c6c981b8-eb34-41ac-848b-bcac82d9207e,Worst purchase ever!
+cdb7ce43-4036-46fa-8a3b-a504c2c9f652,ca4d5dc6-6369-4da8-b7f0-9d835d4359e3,Worst purchase ever!
+d755a4c2-f656-4d03-9493-e404693b6629,bc5fda99-f997-412e-a500-b68dc2ffe4a1,Not what I expected.
+e1c2d92b-b867-47ef-853a-cd30ac9fc015,712dea5f-4b38-43e4-8786-939ca254ebdb,Could be better.
+1fd9df86-898a-4b82-b92e-62f05718d538,6b6db374-c68d-4656-a65e-abb92db019de,Could be better.
+c2f509ae-1372-4c07-b302-b4a49c49064b,25f00765-46e3-4aa3-ba02-b559e592a1ae,This is terrible.
+91917035-e016-401a-ac99-9a9eb0d8ceeb,ab7836e8-b4d9-432e-9e17-c888dc75a197,Very satisfied.
+7f482a22-2c1a-41bc-b8ac-93694b82f090,051bbabf-4b10-475e-83d8-acac249a1b99,Worst purchase ever!
+c455e8b1-1144-44ca-8119-cdc0d5a794af,7366191a-62a6-4397-af0b-3f6283af3c17,Absolutely love this!
+0487c4f2-4d48-46f9-9bcc-f1d372c48538,f03a26be-baa8-4458-ab40-66f72c1ae9fc,Not what I expected.
+e1ba839e-f26d-4ef0-b876-683590f5a5d0,c4e8d4ea-0c33-4eae-8f21-3973725b5c31,Very satisfied.
+7c9b21cf-2414-4ad1-9d49-18b19d92f74a,a3af5693-fe11-49f4-a645-bc8d5c89eed2,Not what I expected.
+b5909120-1717-4440-921b-96a617a44146,a9f22ad6-27ea-4225-bf21-e08d48ddda00,Very satisfied.
+218369fd-efd5-4fb0-b3fc-8b7091594edf,21132a59-6dc5-41e5-9a22-72ab94db3b49,Absolutely love this!
+39b25937-8ecd-4561-a7e9-23e46c2fd8df,d93e3e23-2867-4eeb-a90f-eb7c091e3e0a,Could be better.
+96a0f47c-b991-468e-871a-8cb03eb46a78,fb410153-d186-4776-a887-ca220bcc09d7,Absolutely love this!
+657a1635-b00f-4628-b5eb-06ebbafe9765,d08e9488-1504-49c6-bf5a-e6bbbe30d8a3,Absolutely love this!
+67cab035-234d-44e2-841a-cc31037bce92,da36244e-7f15-4395-aa44-72eda2398041,This is terrible.
+97253947-5ef3-4bd6-90af-bff261ad1d77,23a93333-c169-4616-b186-f9c7af52f223,This is terrible.
+ae5588fa-48e6-4d57-9977-01c427d873c2,b7fc83e8-526a-4438-9dda-976bf6f4abb2,This is terrible.
+9799e691-32d1-4c26-99b0-3f1d1b632703,3201011d-58bb-4fa1-825d-bc3619253d35,This is terrible.
+f26f523e-dcc7-43f4-9b8e-31e951c9d888,c3eb0cd6-1b6e-4ebb-863b-2802a671c017,This product is great!
+73b153c8-fd7e-4035-a2a1-89b36d23ddf5,b7766caa-520f-4d3c-9767-81a35c73c646,Not what I expected.
+333eb3cb-42ae-439d-a703-5c3df4434e26,0d17c250-6988-44ab-9b00-79b1fd774a8a,I am disappointed.
+95106056-3299-4d8f-99b6-2f8c491169bf,80cb63b0-c33e-442f-a371-be334c218db9,I am disappointed.
+6e18a98c-fe83-4b65-be5b-da506332b925,a2caa884-791a-45e1-818a-d0ae45d652f9,Very satisfied.
+9c9425fa-bf38-49ab-94aa-446f6e8b17d9,d5e32a71-012a-46f1-8fc7-621eb349c540,Could be better.
+25e1b643-51c6-4f1e-ac27-dfdbe285b843,7d10884a-c573-4101-a716-5c41a586dd1c,Absolutely love this!
+233112e2-758a-43cf-a423-31df9cef50c7,42f12bdd-5144-417a-b31d-90dfd7144c4b,This is terrible.
+f0c1468d-a059-407a-b0e0-af8ea27af7bc,4a0defa2-36ff-430f-b46c-ae6bbafc47e9,Could be better.
+00a4fa10-ef79-4b40-b2e7-b4c55b67f22f,58cd16b4-c069-4574-ab40-8e94e84a8f46,Could be better.
+d576ce26-9a99-4ba9-880b-722b2a7cbf5b,f37b3dd8-7099-43c4-9ec1-ed75521e0ffd,I am disappointed.
+f05ba42b-8f12-4e08-8846-522c2b3eebcd,b1e52ab0-0aff-44f6-bb37-e5a08266800b,This is terrible.
+42a377a7-a3c4-478a-a036-8d6eb0a7c1d2,8db0a520-4cd7-4d77-8b53-95d9d9747730,Could be better.
+cf58ba7f-6b56-4cf8-8807-78001344a01d,0909e57d-07c2-47d3-8a63-9069b974cedb,This is terrible.
+f972b767-ee4e-4d06-9227-2ebefcc67a65,ea1b0e21-351d-4503-a131-6b505e8b8b5c,I am disappointed.
+3c41af68-e6ad-47ed-b258-19b41efb1ffd,d2fd7ddf-0ec0-437a-94b8-b75041bc78e1,Worst purchase ever!
+e2b74be9-2b53-4075-affe-52b40d67f4c1,54744674-7caf-4f02-8e12-18d2dd179ba3,Absolutely love this!
+5473d886-1a6d-4c23-b319-5086a5970a4c,51b0149a-41fe-4da7-8403-23158dd96762,I am disappointed.
+2d1ef4e9-f6d8-4585-b598-adacb7dbc609,49f467da-df59-4c4e-9c8b-2fbc83a08556,I am disappointed.
+efec930f-30b8-45d0-a2a5-425f29fe30b0,d8adcbd5-99e0-42bb-8361-4e95459a09b5,Absolutely love this!
+171c83b5-ae2d-4b74-afd6-b3ec589ec1fc,ef99fe87-656d-416f-856c-46a17dc51e27,I am disappointed.
+0e4f2d90-11dd-4d42-98aa-9b875d127ff3,83e702bb-f254-4643-9439-cc9369b29022,This product is great!
+4fbb539b-28ec-4bc5-8b1a-f16422446259,302a2947-d4bf-48f4-b84b-e95adfb4690b,I am disappointed.
+a8b6cef9-817e-46e6-b598-4e49c0f20e21,0cf92ca0-503b-41f7-aded-fe4e77e7f16b,Absolutely love this!
+99f84a77-431b-4d73-b9d2-f0073acfd0df,0c6646f8-4a89-45e4-86df-56573ecfd9c8,Absolutely love this!
+fb76c9ba-bece-4ff6-975b-900dec1d1b48,0ddf9eca-d1ce-43f8-82d1-20b3f388b486,Very satisfied.
+08b91e4e-5fb2-4617-a2da-f63b8ec925c9,8fcbe22f-317e-45b4-9c6d-5d2274e06667,Very satisfied.
+f3e653ee-b4cc-4135-a06a-3c298f8e5acf,3fabe825-f053-4236-82fd-bc1328d3e7c6,Very satisfied.
+a93981e2-ab9f-4f3f-ba9f-1afd685fd629,a5f4b3e1-bcc8-4b20-9d2b-09f8541ea847,Not what I expected.
+368802a4-b764-489f-9c66-61512cd11023,9fb8105f-c7f5-4107-a5a9-ab9768789816,Very satisfied.
+556aadaa-bc82-4587-83ca-7f7fa9f9bda1,4515022d-123b-4bbf-be92-32fc59a5ae89,This product is great!
+707ceb6e-530c-4dd9-a663-9c944269382e,fb946e7b-e42d-4b57-924e-8bf20a6140e2,I am disappointed.
+edb7c702-0b26-476e-927e-1e6b72414bee,13a65d0b-ad4b-4940-8b42-b3398ccdc457,Absolutely love this!
+2881676f-17e8-4eaf-9655-1179ec37c2bb,3b6aa028-7ab5-4dd2-8c63-0a5b3a0f2eba,This is terrible.
+810b421e-3bba-4a99-af57-fea6f5bb5c91,2c30215d-5899-4290-a357-91841a84e246,Very satisfied.
+a683eef9-6993-4063-90e0-9e8d11917b90,5a58aebb-6678-4998-bc1a-fe3ee76fe626,This product is great!
+5dfac06a-b971-40d8-bccb-192fcfe7972c,8e936100-e365-436b-aeee-5d5502645ab2,Absolutely love this!
+83c3491c-3c8c-47f3-8404-6e3acd947eca,ac46e312-0b70-4b92-a9d7-9cf5fc7639fb,Very satisfied.
+b53f093d-c81d-4b07-a075-49658c9abf7b,de291fb5-1a30-44f9-b301-88c4923c05dc,Not what I expected.
+c3d13025-826c-4db7-91da-87368da4ee78,81956bdb-3715-4a25-8ced-822c2d0cf83e,Could be better.
+59fc1b69-750f-4810-a76b-9722374cb55e,e7771ffd-4282-43c2-974e-0c54470952e1,Very satisfied.
+9c3e0048-021c-4be3-bba5-939ab0020ff6,d66132b8-4b4e-4d9c-8070-9cba6df4d959,This product is great!
+31ea3a43-8d23-4df6-af3d-d5b91ebd1eb4,943757ea-1eeb-4e5e-80a7-a7f73f4e569e,This product is great!
+c30ace5d-4988-447b-96ab-d54df0ba5219,a215f1e4-018a-45ce-b4f1-ead4eca7da0f,This product is great!
+b4ef76a1-b39d-49f7-b056-b1b06dff25b6,1fa80d87-d292-433a-9576-753b5f8125a5,Worst purchase ever!
+45ae6a5e-8358-41ce-9e45-f21fb4911bc2,e1440fca-c9d7-4b41-aad7-33be9d3cd3f5,I am disappointed.
+f64df6e1-f7c7-4722-ade4-4e1a885207e2,aa731d20-418a-4a14-a07a-9ddc276c24a9,Very satisfied.
+7561733e-502b-4e52-bd66-2e732c100b3f,980cb45f-19a3-448c-a23e-f8aa3bbb5d80,This product is great!
+551460ea-dce4-4ff4-a6eb-4b46d08e03e3,b6481863-5e2c-4076-9672-cdb863bfbb5a,Worst purchase ever!
+1855c3e3-21f3-4b28-9ea0-eea1c72a6215,3c99f6bd-276d-4b6c-836e-ca9c5f837706,Absolutely love this!
+664b5be3-aea9-4634-98d4-ca617ef00e4b,91a28fd1-6a8c-4a62-ad78-014cfb48bc00,This is terrible.
+d7b384f3-8aa4-4a18-b8bc-544cba1563a2,9d3889a6-9ddd-4436-9525-18de1a2bf5aa,This is terrible.
+d35bceaf-7197-4005-8d79-81f46a50ada4,788372ab-889d-4f4a-b625-c868248bdf1d,I am disappointed.
+29996b54-a394-48c8-86d7-c4c17e784bc4,c067ff96-95ad-4766-907b-643f17632da4,I am disappointed.
+8aa794b8-776c-4b3b-ae89-5a86cb78ca42,289cc8b5-d31d-45ee-aa5b-17990f084475,Could be better.
+bffb77c8-9f17-4f32-8cfc-adfb9c565d31,92ab8bc6-37a1-47ff-bd4b-e659830c582a,Very satisfied.
+42f26bba-0349-4b17-88df-2bed2e1f15f8,aa7b6297-e482-4232-92ae-62e08281b2d0,Not what I expected.
+eeb0c752-f84f-4c94-80bb-e509e456d3d7,a3880dcd-8c49-4c37-8233-dc0ba4f87e1f,Very satisfied.
+db4e4660-b460-4155-9a79-c942b958ab59,972aa38d-098b-4cb8-aad0-d5fe945bd10f,Worst purchase ever!
+d8cd5566-8073-4b16-b168-93317bb74a39,cf939acd-fe80-44a6-941e-47c18c539e52,Absolutely love this!
+6383d083-d932-4cf8-a875-ebbe82ef3a9e,b6e54ddf-578d-47e2-bad4-e4a1b344384b,Worst purchase ever!
+4c34abf6-9080-4d54-b4b9-86c014757fc6,7b1692d6-3729-4e91-9f4f-10d9388b348c,Very satisfied.
+e3e41bca-49ab-44cc-9610-3011baa01361,8c1fbe11-c76e-49e0-b3b2-0a21e0b28c0c,This is terrible.
+4d3e0155-3732-48c5-9819-f819a39f4c68,cd3a5288-9ce1-4354-b26c-7b2b21f8178f,Could be better.
+d8f08531-95aa-4981-8b4f-988dec8b46ba,e9b65df9-aa1c-48cb-a8f5-f1ffdb28c260,Not what I expected.
+5b073608-c7c8-4937-9e3a-a75ebdd24ae5,1677df14-970c-4c23-b8ea-8e8b2e71ca44,Very satisfied.
+278150b7-9d00-40d8-9056-d2983608d090,83058070-a9e2-439a-9b01-05573471304c,Could be better.
+49e2f073-9963-4118-a17a-278c6dd66f17,92aacce7-3502-45fb-97c8-76a27a8e8837,Very satisfied.
+61e51fe1-fbd9-4dc8-b567-4ee355d00d0f,14af7e74-7084-4f1f-b706-b0f296b4bfbd,This product is great!
+da597a6e-b007-46d4-afc9-42be447b74a8,119d2daa-4dbd-4ba7-9e48-b569220a51dd,This is terrible.
+8590efc2-619d-4def-9242-e8786b950d0b,4384f358-5e95-4b9c-a7a3-11d611dd0960,Could be better.
+e8894f63-428c-44dd-8b55-bd9ad1f3d080,eda68c44-6add-4ddc-8021-887f4902c750,I am disappointed.
+fa451ae8-d66a-4117-8e45-af5e3596fe7f,a77be1fd-af41-41b0-bae8-b05fc2defcdd,Very satisfied.
+b492cb42-f8df-4762-b4f4-8690d9f66f7e,188226b4-a5d0-4826-a05f-42e07a447510,Very satisfied.
+a9776014-524d-449c-9d65-4d4e4da68238,c07c0ebf-8c97-4b47-8e13-6ada8ddea649,This product is great!
+e05d98b5-49d3-4079-b50e-48f94c73d560,b371006f-509a-4f20-938b-98024d2aed1a,This is terrible.
+4d4b43ab-e298-4a17-a076-79b9485ece82,a458b4cc-7b12-4ec4-a4f0-2e9f2897d86e,This product is great!
+82576fba-8aad-4cb9-a865-e8d81a5ebcac,a18338df-b691-4ddd-a405-d84820d5c013,Not what I expected.
+ab18b196-fbbc-408e-9275-72e29c24bcb4,5c417795-0f08-40e6-9ff5-f58304b01bb6,I am disappointed.
+6994eb80-d513-46be-982f-489863e9550b,5cd3936a-5700-4722-8f81-ae60fa396b92,Absolutely love this!
+5de3a21c-fb7b-4b01-8d25-943a1b14703b,6bd3937b-daa6-4df1-b892-df60e4567dd0,I am disappointed.
+fe1ce8ae-e853-4097-b6f4-10d7246fc05a,3655594b-b070-408c-ab44-86547185f5d0,Could be better.
+24e3d168-dd22-4ec3-ac12-874ae78e995f,6d4c6ea1-f73f-4b86-813b-921803b2d45c,Could be better.
+45788ae7-0e28-420d-8c41-96e287cb0060,15d2e598-4bfe-44f1-8050-7c72ef6b947e,Worst purchase ever!
+d42b5b19-1eaf-49d6-be28-84439b38b619,08859290-3cd5-4130-90e1-ae64320b66de,Could be better.
+56a274ad-a99b-4e43-a0e7-020001a63677,467c81d4-c0fc-4a4a-bf07-c894189a06c9,This product is great!
+1c25d753-2a07-4594-9508-185b92b92008,a6e1692a-f07b-4873-9f0e-a2bf0d3fc5d0,This product is great!
+86ef327b-fef4-479e-8d30-1c697ce98996,4775b496-4dbd-4693-ab3d-c969bdf1471d,Not what I expected.
+409e0da5-666b-4be5-9bf9-abfb23761495,1cfe6977-a09a-4c08-9450-d57a88a544af,This product is great!
+814074b8-cc3b-4983-a1a9-7f05c7be8d02,dc3a16d0-2f03-4e2b-bf02-2ba200b79c54,I am disappointed.
+79bc9a0f-2a3f-40d6-b684-057f9c4e86a2,2f9e3654-1f76-49c6-b85a-bc10055a463a,Worst purchase ever!
+d680eda7-7e19-486e-9ef8-5a5918d27e18,f8f81eb5-246f-48b6-918a-d3862fa0e946,This product is great!
+38ac8387-ffe3-4238-bcee-a79be5acb002,c7bc9162-1ba5-4422-af4b-a777bca098fc,Could be better.
+1edba972-7be5-453e-9869-728c2fffd215,f441b89f-64ea-4859-9963-061366b4a131,Very satisfied.
+d8e61e9a-7fea-4634-94f5-93fe6af181e5,da734fe5-f431-454f-8be4-f0c0428fe2c9,Very satisfied.
+304453dc-f47b-46c7-b469-1dd36ca1955a,824ab169-0eb9-42e0-810f-b689c5704e45,Absolutely love this!
+901ac1f1-78b9-4e14-a5e7-66e1edb79e56,f8d8bb97-f758-4469-8fce-417455db8336,Absolutely love this!
+f9c9addf-8af1-4465-8661-9a5bf3ac4a63,689e1261-10e4-45b3-adf7-dd6d399c1fbd,This is terrible.
+4e469fc1-1202-4cf7-94ff-b92581b2e51e,24dbf66d-9ae0-41c9-bd82-d0f498bd89fd,I am disappointed.
+1bc3301e-b53c-4887-b1f0-9f199eea462f,2aff5084-f7a8-4930-beaf-1a05a27b14de,I am disappointed.
+3583f0a5-1a7a-4001-bb59-1939bb622616,6e56e874-5fcc-4e2f-82fb-fe48ba438d1f,This product is great!
+bf826caf-0284-47f7-a6a4-143a0f8d2cea,427cee26-75ac-4754-ac25-279a3c0fa5bb,Very satisfied.
+232955a8-8bb7-41bd-8688-6bbef8e137a2,a7d4ece5-5411-420c-961c-b2ae754e254b,I am disappointed.
+861fa7ec-0632-4e08-8a0f-ab1e38d10d7b,57fce91a-1e8d-47bf-b22e-e219ff43e91e,Could be better.
+5097d836-f7d8-4d90-959e-52e6d62a7e54,e9c892d9-fa00-4ca4-a91e-4e8959cce83c,Absolutely love this!
+eb5b4578-2fd3-448f-94a8-8e37ab0632c2,9f476013-075c-4372-aea4-a6000da6ac06,Very satisfied.
+c05f969d-e730-40bf-b329-20cc750dac94,8c4c74ca-12b4-402a-8088-2c1e51a80d23,This is terrible.
+573ddd23-5594-4c77-bec2-bc476f3cb77a,ca3568b9-d33d-4e53-b3d1-2ae1a6373797,Very satisfied.
+54479875-b1b9-4475-8c50-d5dd1597df87,dfd049a0-7f16-4d6a-a9df-994ba1fdbf62,Worst purchase ever!
+60471e6a-3107-4fd7-a90a-9621a4c5a098,7bf0e720-9bf3-4e7b-aa77-ad4f5e48c24a,I am disappointed.
+27972fda-0b42-49ef-9dc5-b8b27cdadf3b,c0425fe4-abf7-4a30-9ddb-10805b2be435,This product is great!
+7fcbd7dd-1edd-4446-a2ec-f18957162ec0,3ce90372-1c86-4251-b019-643fa25bb1b0,Very satisfied.
+b4a9686f-3314-4f5b-9413-1bb3b220d3fa,29e283af-b4e2-43a4-84bc-2651a2b5d689,Not what I expected.
+d69f419c-9fe4-4717-85ec-dab526661d77,d86eb74b-a2a9-4077-bab8-7d0bc568ca17,I am disappointed.
+2b8370d0-e8e2-4e9a-8bb7-9893b8c9f743,1a5742c5-3c4a-4000-ae01-4903ec0ff1c4,Absolutely love this!
+0a933e2b-6a79-4599-9b74-9671893fa32c,26947b66-07cb-4991-adfc-2266dc163fbc,This product is great!
+be09eddf-fd69-4e1f-9c1d-6aae61ef981c,856e9f99-58b2-4f26-bfd2-7916b5d40514,This product is great!
+12b5b709-773d-490d-a20a-c55ad93387a4,d7340d62-737f-4336-bef7-6dab6e59a85b,Could be better.
+c1a0aa80-e0a9-4e89-a534-52edb8bb8f69,f27e6c52-dc9c-44f9-924b-788fe11750fd,Could be better.
+a4be0b1d-6ad9-40e2-99d8-ed32b0f4cfd0,06fac117-1241-42ed-8881-c3e505e4cae8,Absolutely love this!
+9892a184-fc17-4321-a8b6-fc07dcaf8875,1f8a333c-658e-46d0-b378-a7953368945f,This is terrible.
+92a6013a-38fa-49e3-a2a5-9826aafdc301,54af4a4e-3081-497e-b611-c1fadfd6f11e,Very satisfied.
+8964a924-35d0-498b-b0a7-dc24519d51ca,9048728b-3cb5-41e0-bdbe-57d816cfea61,Absolutely love this!
+fe0a1ef9-7213-452e-8d61-4f7ec8a72457,5c783504-193b-4fb6-8c4b-1f72161570cb,Not what I expected.
+c753924c-3ece-449b-bbc5-562e4fcb90e7,b9e9cf47-6f35-4801-9a28-d67d409355fc,This is terrible.
+85767372-19d2-4b71-a28a-1ec92adbc549,ad720ec7-4726-45e9-a44c-4ce38c428f43,Worst purchase ever!
+d8dcb3d1-be83-4048-ba4c-ed92b6f55515,6c420df8-8269-4222-9667-283f5d8727e0,I am disappointed.
+b974420e-967d-4c46-86a1-13efef5135fc,d5d9dc11-de68-469d-8652-ec451f54572c,Worst purchase ever!
+091717e9-cfea-4e03-a9e5-7e6ac97d34a7,4073cae5-3b5a-43f4-b928-97b7ba9e1b26,This is terrible.
+3dfbc540-2274-4e6a-b59e-7687ba50e54c,0b4a46b2-d025-4f2d-bbab-22099c3cf55a,This product is great!
+60cc70ab-1c8b-456b-a50a-d9a035227b43,abe0be0a-aacf-4a53-8d0c-b44ccc518941,I am disappointed.
+25640d34-5a1a-495a-81d0-9d7fb596b6c5,94883c44-eece-426b-bb14-08e3e058ce72,Not what I expected.
+20e5e346-9cda-4d89-977e-1597d7b0e199,e94d6464-2939-4e44-aa20-e9444f05b440,Very satisfied.
+2c425921-9138-4c58-a3e4-244e91d434ea,8a82dbd6-b47d-459d-bfb3-d98db398722d,I am disappointed.
+42f71fff-605b-4378-9249-3550eac2ce46,8ae48847-00e1-4366-9329-5e22b52f6455,Very satisfied.
+1a859020-2fa0-44c5-a377-e8904fff2b61,816edede-1cd2-4a7d-9e88-f176c36375e1,Worst purchase ever!
+bc4ade1f-0c23-40b3-bcd5-2274d47d2d80,794b6051-676d-4a26-ae4f-8201e90cda3c,Absolutely love this!
+3249a983-4334-48e2-99bd-ae7b57d40216,b241204f-c93d-4087-83bf-4cd2cc86218a,Worst purchase ever!
+79d8367c-6919-4902-aa20-0c39f201a71c,fd891b42-11f6-4ea9-a8b4-8ea850ad3999,Could be better.
+f8f3fb42-a231-40e4-b665-c0e20dec40e1,0770d29d-31b9-448b-a77c-c12cd6620210,This product is great!
+e8d61b85-62cb-4e0b-8f77-eaf7a6f40c34,da69b703-2fa3-4d01-aec6-31bb5b409653,Could be better.
+70db4710-ba70-4bae-a153-77e62fe7d1a5,5f3213bc-c87e-4135-b4bf-c826a641350a,Could be better.
+77246d45-4932-45b1-b970-f3a4cc4cca42,555760b4-0ae0-4606-be8f-fed222858d59,I am disappointed.
+a281b288-749b-4de7-884e-b4c2d8c7846b,d2a7c47c-8c2d-44f1-9658-2cad24a4cb4c,Could be better.
+3f925f53-ab70-4f35-9bbf-e190ff79de22,dbee2ca7-eed6-4fa6-89b7-b668c34109ec,Worst purchase ever!
+dc86ea5b-81d5-4c0f-9b35-8d47ffc57ca9,0bfd1e7e-8a8e-4a03-8f41-c1af113988f4,I am disappointed.
+55e59f5f-1338-425b-95b3-9642e66791c7,5dcc4c8d-a6e4-4e12-9c0f-5dd0e2926601,Could be better.
+0e4ccebb-9ac0-48bb-8205-235a9321c506,478d94fb-b89f-4b41-a06c-b62ff8e112dc,This is terrible.
+44a9d9e0-adfc-46f6-82f2-cc3693d88e5f,79b486df-5973-47d0-a405-e5aff2c40ccd,Not what I expected.
+d3988aa6-a326-4f41-ade1-8151375525fa,5359e0d8-1837-4eff-8c42-372291bec8dc,Absolutely love this!
+aac74ccc-8711-47a3-bb7f-21ed0a949841,1a6133ec-e683-432e-914b-5433ea5f1f54,Could be better.
+67af61bf-2c16-499a-ae3f-3f9441a67f22,7cb870d9-6efc-4a53-885f-489e42753a1b,Absolutely love this!
+fd645dec-a462-43f6-916c-3093098b39f0,b9ad8910-b0b9-4474-9fba-39c1fd3290b8,Very satisfied.
+e9577cc7-48fb-480e-8f2a-d545c2a92bd7,d0974f38-a5b5-4029-bc7a-79ce2e5b870b,Could be better.
+1570d14a-dc92-4cfe-8979-5ab03ce1ae3e,8db79948-5180-4ba4-ad11-721f52afa7f5,Not what I expected.
+d2d75a94-8578-443c-990e-fafd9d39c3ac,49199a03-7563-44c4-a4f9-a60198ae07af,Absolutely love this!
+0866e4c9-7a47-466d-be79-743d3ef7ffdd,c711fb2f-5189-494f-be85-874b0f01c3a8,Very satisfied.
+a1ee2620-05df-4769-8b37-0367fbea6811,09d692af-9c20-4992-b7b3-18660d33fe4e,Worst purchase ever!
+40882dcc-3429-458e-8436-ba405298fe8b,7acf30fa-c9c5-4c4b-a3f5-88afdea368c3,Very satisfied.
+3ec0044b-dffd-4c94-9b4c-501eca66e17c,ed09ad4a-1159-4007-9ea1-3f99927abc49,Not what I expected.
+6bb1ebcf-3c73-40f2-bde2-33de29eb2884,07b1baa3-2ae3-4e8f-bd6c-d61da3f55240,I am disappointed.
+ff8b0a59-c0b0-4890-8cda-646b35ddf65d,3357318d-0f3c-41e9-af51-ce6d2e9b7316,Could be better.
+cfd744dc-fd4a-46e8-9864-885cb9e8bec7,1149405c-c2ae-4d6e-a648-ae5946110aa6,Absolutely love this!
+ddfbbcda-6b13-4d90-abf1-b8d08e404374,9b1659f4-e2b1-4fcc-965e-73454ebf18d6,I am disappointed.
+6de90e63-f56a-45a8-878b-0dc6ace7bc95,99e26b86-d119-48a2-a67b-a5138a54d471,Worst purchase ever!
+50e2b673-4f33-4ff4-8950-578046842656,a41678a9-8a48-480c-8ec4-8760f0c10167,Worst purchase ever!
+52bde4a3-578d-47ac-9038-18dfaa18cbf8,15cc8345-4a13-4f12-8edd-0441de044c71,Absolutely love this!
+d0047070-b59a-4f4e-a060-04c19363ae45,24e8c9ea-aa0f-431a-bc30-1ca573e3a7f8,I am disappointed.
+3b9b92f2-9dcc-4852-94c6-98f4c1903e6e,234ea734-7718-43a8-b23f-ce5e0601c37f,This product is great!
+490fa44e-3707-4410-823e-d147a092a3d3,b2f2240e-e894-48e4-a1d3-cd39319e1b68,This is terrible.
+54f9a5e7-a44f-403c-91f9-3fd36a28519f,47baceee-f782-4f23-869b-a1101935b166,Worst purchase ever!
+b308326d-9a10-45c1-b350-1b9cb44c2835,204eef59-df3b-4f2e-b472-faebcf303df0,Worst purchase ever!
+232ba430-cc59-473b-a842-28075bde2f77,49b2484e-24a6-4a1e-918b-d91c31a5b812,Very satisfied.
+340114d7-1861-4341-8df6-ee2daa1c2c47,284b53c9-cf54-45a5-b774-3372ebd93517,Worst purchase ever!
+adaf868b-eff9-4e0d-b780-0cb2d1014c34,a6ab8cf2-3020-42fd-9a4a-ddfec64dca4a,Not what I expected.
+f267e059-4ede-456c-808a-f7fe5209cfd9,7ed4d446-bf6f-4c69-a293-4c92696f2569,Could be better.
+054652dd-e45c-449c-a9a2-9583e51a6f07,b5cd3418-f381-43f0-b0f8-8b59925ba22e,Not what I expected.
+94621c8b-fbf8-4bd6-b671-652be4ff3dca,3867de01-f126-4c7f-a864-400809e4c5f5,This is terrible.
+17ecaf51-d161-49f8-8af1-581e557779ca,0d6deb09-55bc-4ca5-8d9f-d15d73139657,This is terrible.
+de7bd7d6-e42d-4055-835c-d67da5b5547e,859683d6-04d4-40aa-a72c-79bae465ce74,This product is great!
+4103e7fb-866b-43ec-9e86-c0d8ecf9e1a8,cae3ff1b-db6c-4b38-8a2e-b9505e84f031,Very satisfied.
+32eb7cb8-9f01-462b-ae20-51c2a93b19f5,e8ea0b4f-5a81-4403-89b5-ffed471160f0,Could be better.
+b436f57a-b4b7-4c7b-89cf-0b4b057c6132,86bf4e1e-a99d-4f1b-ae6b-038f7feb261f,Could be better.
+5c89f295-317f-4ebb-a696-a1cebeadca73,ab66a1c9-1446-41de-a382-5dc9aa95151c,This is terrible.
+90d51fcf-55fb-45fb-97a1-d794d522a9a2,671db80b-fcab-4b4a-a8d7-00f2b9394046,Absolutely love this!
+3f768f63-0b8f-4405-83be-7b7c73d1b68a,a0fc1e1a-3383-4181-9edc-fe6816f9687d,Very satisfied.
+a5be3377-6c47-441e-8551-be796ac817d4,beaafd0b-05c0-44a4-acbe-93d3bef3acba,Very satisfied.
+dd748f8b-bdde-4017-b8ec-d136dd05a16c,399887f9-6cd0-4740-92fc-c871640e4cb5,Not what I expected.
+cb6c77f5-8654-420f-a648-555d14cf650b,e209f616-f5b1-407b-8e20-6a9069aaf9b1,Absolutely love this!
+c8fccf9f-00e6-4c21-90ae-fb375c658427,79832b18-cdb1-43eb-9491-b018a754db31,Very satisfied.
+85251745-3952-484b-acb7-c989b1a38ea6,bf07d461-9b8c-4efd-b6db-57a6e83981ce,I am disappointed.
+d11e1eba-108d-49c4-9f69-c077b33e4517,f984abc4-0764-4b38-9f2b-905e74904350,Very satisfied.
+2f5ba917-2c52-4656-9a84-92876a8f64a0,1cceddbf-ba19-4d18-a399-69bf971ef1e4,Could be better.
+9b2e4a46-b19f-45d5-807b-fbcdad99557a,9e5b841d-111d-4bcc-80ae-aef1b9347c9f,Worst purchase ever!
+46f588e9-6f1a-406e-b98f-7f85f504a4a0,4c91ef21-d702-40c0-ac9f-88dc161ebab8,This product is great!
+5b49084e-688b-4349-811c-cc9540f2da64,bf31045c-5824-4a76-8dd3-af19dbbf0721,I am disappointed.
+749f819c-a042-4e65-8bdd-49bf35d1ee3a,541c28df-11dc-496f-a820-83dcac38befe,Worst purchase ever!
+c7e703e8-bb87-487b-bb79-499c7cd34467,aef2bf89-7dc6-4031-9f70-e21b3b3abe5e,Not what I expected.
+2fd6e87f-71ba-4014-a636-de607e255fc9,2f273722-50d0-40f7-942f-9e9ad2aeba84,I am disappointed.
+eb9a0798-a6e1-46f2-945d-a8efdafc32f4,b7ea92b4-fc77-4e0c-8303-72e1dfff5d7a,This product is great!
+4fdf85b1-f18f-4a4f-9e41-79d952ee9df8,fb0c846b-d568-49f9-a406-6dfd41a5e5a8,I am disappointed.
+5b193ae5-21ca-481f-b55f-297b0cd4470d,74c1dbb3-fdb7-4f75-b692-202d1591a86d,This is terrible.
+4fa44223-49d6-4636-b2d0-89672287e95a,409ebeb5-7571-4703-951b-b814d5ace575,This product is great!
+70414377-6c06-4f94-9924-64b9a95f0c25,76b3add2-9bef-412b-9403-07902826d4c1,Worst purchase ever!
+1fb0d16a-08bf-4c10-a5a9-724768dd9d92,a173449a-821a-466f-b59c-26bf06eefa9d,Not what I expected.
+dcd79f68-71ce-4bc2-bd3f-63257180e42e,644e8049-f739-4838-bb1f-769973c679f5,Not what I expected.
+a1dd7dc0-ee39-48b6-820d-fc44c5bcf06c,9dfab32d-1991-4ebf-aa61-324a61b035d7,Very satisfied.
+f4359097-d674-4be6-b2ea-af8c1b63241b,3f4a36c2-84ef-4b3b-9975-953319296869,Absolutely love this!
+877cf1a9-b43b-416f-a2c0-e956c3d3c53a,220c2e49-b29c-409c-89a1-c4725655fdac,Not what I expected.
+0785969b-d3fc-4a53-810e-e6b2ab2d6cf0,cfaad16c-284d-4b6f-9ef1-fae9570f83bc,I am disappointed.
+3e519a80-db2f-4a58-a24d-09d3c4772e00,6e8c5980-7b0a-455f-9cb4-8bf48513759a,Very satisfied.
+83e976e7-8f5a-465b-ab71-65f49d8bc4a7,17caf14e-1ad6-476f-8d2f-5c4463c130a7,Absolutely love this!
+22816868-5c7d-453d-a5d7-70b5a008c998,ff75bc65-a031-4144-9a53-2b482bf96b6d,Absolutely love this!
+d03f41a3-fd79-4a71-af2e-86fdd25a392f,0cb22062-8113-44b1-9801-90b664d09314,Not what I expected.
+9c798710-6b2a-4541-bd63-0b69629b56ab,6f69cb92-f22d-4bfb-9c03-0a776aa93805,I am disappointed.
+e71d9b39-8de3-4a7c-86d2-7435be674ee8,8bac94f1-77b4-4f70-a971-652c988473d9,Worst purchase ever!
+36a786fa-10e3-4332-b8c3-150102b91b3b,a543e73a-0fb5-491f-8d30-3b1467f459c6,This product is great!
+e03858c9-a472-4dcb-b19b-377bdfe5b728,126a2e3a-fcc4-46b7-ae9c-0fb4929cdbad,Very satisfied.
+a2de0b8d-3325-442b-9a1b-b1a033ff1428,fbcb7668-6d20-4852-8bca-45408d29dcd5,Absolutely love this!
+92ab9e82-6f84-4145-b9f4-c04aa007448b,92f4a858-afa2-4bcc-bd58-2cec065af185,This product is great!
+362539e4-0aba-41cc-8d93-47cc79b154ef,26686b92-baf7-420f-ad8e-3c2560f91ec4,This product is great!
+d469fdad-50c2-410d-9585-18b1049d9422,5bf7e102-c543-41aa-a88d-e237e01d35db,Could be better.
+23b41e6b-7a65-45b9-9408-4bbfcb75f046,4e41d363-3898-4392-85d4-bad39b295e10,Worst purchase ever!
+194a697b-bfa4-4e20-8913-86e235e48f88,420037c1-8a3a-41de-b6c3-7df273baabf9,Worst purchase ever!
+5d40c601-42c2-430d-8fa4-1097ca3fe30b,adc3b0e0-5d70-4fe3-b628-280cab4d0323,This product is great!
+97be8926-f20e-4fa2-b5c7-e733873171af,f7b01ce1-2234-4785-80dc-b23d4ec85197,This is terrible.
+9354a0be-4c84-4bff-8146-260d6b0a4037,0d009ae3-7b24-4be7-80c8-50af025a910d,Very satisfied.
+12733cb7-2a2a-45fa-9b5c-a04751b744ee,27a57960-274f-414c-bab4-d71b07fc78b2,Could be better.
+2f78ab56-9e3e-475c-883b-e7041331fc23,b0b5edd6-8886-4cf3-9391-3134620d8946,This is terrible.
+dbecd99a-af9b-4daf-a426-c187f3331a4d,a544fce6-a1d9-4257-a4a5-e37e355b7093,I am disappointed.
+80127307-13a7-4d13-af36-6f539194a4b7,09f947c6-3cd0-44f6-b76a-7a52b43d17c6,I am disappointed.
+e4b1897d-94d1-4005-8099-0d93b974b41b,195335ca-b27d-435e-8739-2671cc1d0e1b,Very satisfied.
+4f54e100-f3e9-414f-b9a6-35aa6d18ad48,004a6b39-3c31-4bdb-9276-d72fec14d16b,I am disappointed.
+e37de9fd-dd39-4fdc-9fdb-2cbdfc1f9c85,5bcaf8b3-f6e1-414c-994a-d8774c45f1db,I am disappointed.
+5fbd81c0-945f-4065-8814-b05d3906c009,b9124b59-74e1-496b-9e83-4f041b7c4d38,I am disappointed.
+d4cd9b96-c237-4b95-ac93-5eb0708f1041,f1682d5c-027e-4a2b-82eb-65c8d94d7aa9,I am disappointed.
+eafba181-bebc-491c-80c2-5308d82db291,f4cfb772-14b4-4299-b8be-8b5545dc58a4,This product is great!
+faf6a511-b6ba-4c88-adb0-549bb4be8c63,3edbed93-4da4-4125-a2c5-22537d8fdbba,This product is great!
+6e658fbd-ad24-4363-add5-73d2e05dd8b3,9f5a75a8-2b20-4dc4-8301-3c4ecbc523da,Absolutely love this!
+ad7c932c-f684-444a-9ff2-0fa9cbb395ad,d9907cba-9fd7-4132-aa3c-903d811037e2,This is terrible.
+5d3c952a-2f52-4daa-b1bf-a4f593177443,ec9d4c98-b820-4100-b8b8-d9ea71d5b972,I am disappointed.
+5463c1fc-b992-4115-a500-cfde86dbb7df,d4bbbe62-985b-4f3f-a44d-b040146e647f,This is terrible.
+53adfbdb-6d18-4755-a603-45ac052c3814,1d9edd58-61e8-4a96-8217-7692d5f6eb1c,Worst purchase ever!
+573c9dc6-8b71-4124-a1e0-a6efa6dac049,d7a227d4-a960-4a9c-bb84-f182aafeef59,This product is great!
+9a04d4c6-c9c1-44e7-8f2e-e85416b4b02b,26471836-7075-42a6-a344-57320d3a737e,Absolutely love this!
+03595a39-12e4-43e3-9a65-bc4cff426421,b2f771a6-437e-4e6d-8de0-e45a1b695573,I am disappointed.
+f559aa8e-3902-49d0-825f-f5e33a93d857,0a3f34d1-683d-4827-bd7b-415d2aca0244,This is terrible.
+acda7e1a-bd06-448e-9fe1-c75ab6b0803b,e44a9cc5-3684-43cd-83bd-b42e440084ab,I am disappointed.
+bc251036-fc53-4a3f-b459-6358151b73f2,fd5b923b-8053-44b7-84ee-c27fa30d4845,Absolutely love this!
+9e403529-9d3a-46a4-adfb-d21f84d51ad8,8e8b90c5-f938-428c-b294-9f4afaf8ef02,Not what I expected.
+f0a5ab38-7dbf-4f73-9026-359533d6e9ce,223f3935-2f73-4de2-aa7f-11f5ad78c8d8,This is terrible.
+e442985c-65e4-4e8b-b789-cfe67e040b0a,57652a7e-9ee7-4ac8-a70f-6de4ca5f9fc0,I am disappointed.
+bab803ed-b599-4cc1-999b-eb901ad6fce2,341531d1-99ca-423b-8bef-af9bc55240f3,Worst purchase ever!
+00fe6555-11ed-4d1f-8891-e63489a7ec00,c3322335-9407-4833-b1d6-e12885f082e9,Could be better.
+777afd5d-7e6a-4fa3-a949-9d3380e085f7,52191489-24ee-432a-989a-869e0a3ec582,I am disappointed.
+f521d9ad-63c6-498c-a58b-dab5ceffc4a0,95800aab-8501-493f-8ec7-2cd66d1e8ec8,Not what I expected.
+3a3a7009-a85f-4d82-9ea6-13255407bf87,84342d90-4bce-4944-8631-4c3aed2e5ed8,This is terrible.
+e84d4b2f-1340-47b8-9ba8-86ede5eac073,f0b08929-872c-487f-aee1-f7c45aed2587,Worst purchase ever!
+c3b62171-8f40-4c8b-859d-cca23e93e6cf,b1cc268a-ba88-4be0-a48f-32bf253be25a,This product is great!
+2aad7cb6-3ac4-41c7-a94c-60d2d2cfdda7,ff347aab-fd7b-46fe-aa22-45d9a6c2cf2b,Absolutely love this!
+7b84b585-4ee4-4e17-b314-8caa18531764,a7c6fca0-0a15-4e6e-a8c6-65f316fac980,Worst purchase ever!
+bc435a75-aa61-4f00-971f-8dcccbc26913,33001520-1730-4a6b-a21a-f334af53cbd1,This product is great!
+92ba6bfe-b620-4610-a300-170873773a7d,4dfa6001-62c3-4b0f-a90a-e43747c387f9,This product is great!
+9962d16a-8740-4911-8812-c47c233e3d7a,7feadf17-5468-441a-b500-e5d50b94b47d,This is terrible.
+f2bb45f4-60b5-4a05-8ad6-cc03d94d0b08,4275e648-91bd-4755-bdb5-3dfa69a8e0d3,This product is great!
+d2e933c7-ab8b-4569-a3fa-0d9d97b78afa,bb4f5c13-9564-4f34-aabe-f317f74e4ca0,Worst purchase ever!
+016f6384-a20c-446f-8c0d-20b9a5ae40bb,63ddc93a-e0bb-451b-95b0-387f70e93714,This product is great!
+4d7206e9-3bc0-437a-9dea-6318bd451608,143f0e03-eafa-4eb9-82d5-8d909ebe032a,Absolutely love this!
+fbc2ec9d-5d2b-47fc-8c0a-bf89aa083a78,13f9bcc2-2cf4-4eaa-a2b7-6670473c08ff,Could be better.
+19874e69-6b95-49b9-81ce-4ba68afdba51,e29b936c-d079-4647-97f5-c8d265364403,This is terrible.
+75633e6d-64f7-48c0-8bf0-ad02fd8d8fa3,2f93f41e-349a-4d09-a4d8-56ca29791569,Very satisfied.
+9769bd58-7d4c-4593-83e2-bc79b8c87b55,2eeba77b-bf5b-463f-92ad-1a63497c9aad,Could be better.
+252f6763-5fab-4433-8766-513ffd795902,cb4e2f07-335e-4065-8598-52b7c478459f,This is terrible.
+1bdef20c-b87b-40d6-9aa2-e60a4548288f,2bb16dba-692d-44ff-9f80-52a60d0952d8,Very satisfied.
+230bedea-9cfa-428d-866e-b6dd07237f05,f9c5e066-0d73-4593-9e40-1730f5a96f7e,Not what I expected.
+d3280726-7f4d-4170-9f4e-df1b35ccaef7,5ae5aba8-53b1-412b-b715-e8a1059bcf76,This product is great!
+ad172dd0-52ed-400a-b58b-1d9ddb5fb375,6b5db2d1-305b-4a55-832c-36bf6809c994,Worst purchase ever!
+4c6a6d89-c092-4240-81f5-30f8a4889c0d,e12b63b6-f2bc-4855-8dda-48ebba660f29,I am disappointed.
+25eb5d5e-937b-41de-b3d0-6b3f4fe02a27,627a8b63-7a78-4324-a29d-8332a2322c4a,Not what I expected.
+e6bc1f94-c5fa-4ecc-bbbe-d19a55ebe454,82c89400-c7a6-41de-92ab-61e2f273290a,I am disappointed.
+e58d52d8-5577-4fb8-8d59-ff0be3862de8,40058e51-b1d9-46e9-a716-cf3a518a099b,Absolutely love this!
+fbfe2f81-1b3a-4748-8727-18ff4da6eeab,fba3e4cd-6a09-4256-ad7b-09f1b52a4e34,I am disappointed.
+0aa0d749-9681-421a-8bc5-5e248bc1c972,695b6ab8-8829-4073-b804-5c55d783bdf0,Not what I expected.
+bb3dc130-f337-4f06-a0bc-485d90d867c0,a31b0b0b-3c10-4e9d-bc79-33733c7f5d2a,Could be better.
+4a882ee8-58d6-4881-ab51-9f18a8e21a61,49a10a8e-dd02-46f5-9130-7ac2a8b0176d,This is terrible.
+4cfdfb32-737a-44c9-a2e6-6b98f0568cef,3cdb4fd0-c717-4f47-a810-ed0d0b3964e6,I am disappointed.
+3fcdaaf1-483b-486a-98d9-945260fc4d09,78b7939f-fae8-4df4-b90e-2c1270c53968,I am disappointed.
+f61625f0-c8b9-4a5b-940d-16176733865e,969f8b3b-5269-4158-949e-3b4021a15573,This product is great!
+5b007808-eb33-47ab-8a43-473e6539f996,433d104d-932d-40c7-b199-d12205bfc37f,Absolutely love this!
+dbbbd297-9bf9-4173-80ad-495c20331854,9992f0e8-486b-4d43-90e2-6967eb90cf6f,This product is great!
+6f99b928-3ecc-49b0-9dd7-b3d0b687ee8b,9b41a3eb-e570-4aab-bf43-b24270fc7f6e,Absolutely love this!
+9ddea29a-45f7-4c52-adb4-d0c9770656ff,c531e500-613e-4350-a495-1edb835ddb50,Very satisfied.
+64381bec-a341-4fb3-b3e2-12fd9e7479a0,f377749b-7a90-452a-a752-9297a1853013,Worst purchase ever!
+b9a127ea-8feb-4e0d-9e7d-a4fb7eac58d0,eba70469-2380-410e-9285-7f38e6ee179f,This is terrible.
+92c78158-d858-493f-be0f-9607288c5acc,0b4c683c-c81f-4a32-bd5f-d838c59e7087,Absolutely love this!
+0a7e2213-417e-4e0d-80a9-e17d211e1fd4,d66fb7f5-72ca-472c-8870-5d6bace9770d,Worst purchase ever!
+495bbafe-70a3-4883-b4fa-f680b7b3b9ac,dc14ed86-eb37-41d6-91ae-b1982e9d8c90,Absolutely love this!
+784c55db-468a-47d4-b4b9-c000a4679793,83a72a38-0b88-4b65-9468-be4e22d0b8fd,Could be better.
+07342076-9b4f-4e38-a4a6-f8e671211d63,e21a6bdc-353f-41fa-8c66-95ef3439d5ec,This is terrible.
+aa634e99-7c50-4079-89dd-9e44b13ff202,f551292c-b158-4b43-b72d-f513c5f2da7f,This is terrible.
+79dd8b14-ca08-4f10-8756-2dd0ce4dce32,97f8bf13-65da-4364-89f7-0470c671c0f4,Very satisfied.
+1f9e9db9-312e-4978-9a6d-52b1d9ee60a1,d10494b3-639b-4741-bd90-bd8fe5818a7c,Very satisfied.
+acdda9ea-bbc0-488c-8f55-72855f553517,ef164908-dbe9-4ed7-9ee3-ff56738e8721,Absolutely love this!
+375efd54-d74d-4c9f-9caf-7a379f311f95,95f860a2-49dd-42a5-9fbb-56f59b6a12c3,Could be better.
+ef7d25f5-c0c4-41f8-80d2-2d7fbccd4c1d,1b9bc9b0-cace-47bd-ab9c-e54d1ef47cab,Very satisfied.
+d98479fe-6e5c-4ec1-a3e7-9b5f860c77d0,92a8e27e-e711-4a67-8cae-4f7162942831,This is terrible.
+62cfbaed-8fae-4f2c-b264-e2c9ec8a315a,3ea68da5-cf29-425e-8c92-03219ab13d33,Very satisfied.
+813fcd8d-ab72-41ae-b971-3acfd97a5446,455196f9-8183-4ea8-bc34-c0c5fde29116,Worst purchase ever!
+57951f4c-b95a-4649-91a9-12263b0fc6a3,96f09715-5358-4145-b442-2585ae015970,Worst purchase ever!
+d521bf6b-9df7-4df7-9672-9d2371df9306,0a422d2a-61d9-4c6c-9fa4-9b4b2176b255,Worst purchase ever!
+b0ab965d-b0ac-4383-8f5a-93df4ad1ae1a,c74f5255-cd5a-44fd-89d4-f9a575103074,Not what I expected.
+6aabd8cc-6e0c-4119-ae31-84cda401edbe,f1a651d2-b9ae-4b06-9e4f-b905ca0edd2d,Absolutely love this!
+08954e5f-a696-4a28-ade5-6633c9cd04b5,6ad2146f-c2c5-4786-9dee-d0d264dff2a5,Very satisfied.
+d08d917c-8984-4a42-94d2-416797520c44,897ec616-080b-4272-9b88-1e98508f6699,Worst purchase ever!
+1cae0bbb-fa7a-48d5-9a47-c0bb5000b0e1,e7c18b4f-e4d2-4e1c-bea0-0d8178e8fba6,I am disappointed.
+c1c7759a-74b8-458f-a973-153b44952b8f,ec0f6d86-4668-4067-ae38-88a486c1a274,I am disappointed.
+69cfbe16-1d8a-4467-a2a1-24e004d1892f,4c194f60-da9f-4fa6-a4c7-6f4ad4ef5749,This product is great!
+a8ace19f-b9ad-4312-a8bb-e6de7af4e03c,d386c4bc-0fe3-4c05-8aea-bec278ed2a2c,I am disappointed.
+2676264f-3720-4b79-8ea5-4325b5811640,4f0a7c37-c662-4eb6-a243-35dce8e917e4,Absolutely love this!
+d5d4a216-634b-4e19-b314-d9f73b462c46,9fbfd305-baf7-4e1a-a583-c16f9bc1cf6c,This is terrible.
+4d626838-188a-4fdc-968c-78d2b8cbb211,da08f219-316b-4281-b1e7-320b42b6273e,Not what I expected.
+b5c6af59-0f3a-4b71-af0d-0ebeba5b8fca,3a6a3e11-ca48-40d8-a271-fe20874c8025,Very satisfied.
+6e98b278-a38e-4698-a2b3-7a892057ca17,76baab00-185b-4f04-9ba2-4fcea4ad36e8,I am disappointed.
+a358c343-4ef6-4b53-bf41-f228341b1490,d4e3ed02-2da5-4ecc-b285-74513a807227,This is terrible.
+7911c3cc-a987-4197-af93-5cf735025680,01b5a653-655b-4c69-b1b2-0b95125e7c9a,Not what I expected.
+cae6ea9d-a96b-4738-9289-51f59f0a46e4,7f4b2480-f1e1-49d4-91ae-90dcf9ffcb44,This is terrible.
+68753487-8a68-43f7-b2d6-67f7a719a685,3079cc7e-8a6b-4399-b158-67ae1af2eb01,This is terrible.
+430aec2c-401b-40ed-a761-bd8e5bcf07e0,6945a117-e3db-4160-8c9d-b778dca3a3a6,Absolutely love this!
+49d89203-1022-4677-9c41-3e8609168a0f,d8be9d1e-2177-4444-ba4a-4e6918087ebc,Not what I expected.
+44405cbe-7cd7-4d7f-aaaf-279e2f236986,d939ce78-6195-4d9c-a17f-d69cdb417396,Absolutely love this!
+d441d2b0-3d9b-456d-975c-a06f4d2e9fc0,f9d8bf7b-dd40-46aa-94a5-bcee5e165e75,Not what I expected.
+a55e44fa-3a25-4088-81e6-e72e3d397baf,8f2a0286-3af9-4990-a308-5b54b1d4bb4e,I am disappointed.
+d812f9d5-a722-42e2-b419-6da0efc22944,1cfad66e-c5ce-4d5e-b3c8-8ff4bd18c851,I am disappointed.
+54cc1397-0ec8-4d2e-b8b6-95417fcca697,2ebe3edf-494d-4310-9515-4e9dc58fdb16,Absolutely love this!
+a17ccbc9-7059-4a19-a99f-439a01787843,f429bb3a-e3eb-43af-bb28-9e5571e18a78,This product is great!
+0a4fee3f-f7f9-4cb7-b4bd-1449ec362f13,0ca2d43f-b975-4039-bef8-ba421e984d02,Could be better.
+0effc3ab-ede9-4a5c-bea5-b9e93ace1b73,4c1ffb64-5463-4fbb-825a-3e9030ed8d17,I am disappointed.
+cb11c670-0ebf-45dc-a9b7-78bdb28c0812,297cac93-44e5-4a93-96e9-06b4c1ce684c,I am disappointed.
+4e04aba6-fb0a-4e47-acac-0786f04eedb9,47789f1b-e8d5-4ec1-80d2-e75e9d4661fd,Not what I expected.
+a2931da7-0eb1-4956-8787-1e29177c25ff,046e3163-4e4e-42f5-ba5c-a200eadadf7f,Could be better.
+816dd8bd-2eb6-4066-b3c4-6371fc51ab58,90b6ff4d-5c1b-4064-9cd5-749c2cf1a3f2,I am disappointed.
+3871e1d5-91e6-45ec-ba5f-1f9914ef14b7,5a3625ef-06c6-4b05-af79-349ba1015fe1,Worst purchase ever!
+f0d05e1d-2333-4c84-940d-461a48ea2a84,5db8a025-2116-49b3-ade2-2a10c5d08f03,This is terrible.
+1957f092-6bb7-434d-b24e-59471f136e2f,b0a0541e-6ea3-425c-8197-b811f3acb414,Very satisfied.
+03f9b170-8d6e-4570-bddf-624ff9520ae7,031c82a5-669c-4571-9ffe-1176df0f8c61,Worst purchase ever!
+d3a4111f-7fe3-42a9-b0ce-d358c73caba6,ee9663ce-1c78-4120-b9a4-9be67afc4c65,Absolutely love this!
+ceb6b06b-9728-4bb5-8ebd-aaed2fe07f94,ef3cbfed-aa9b-49fa-a84d-198caa19c6d1,This product is great!
+da8be25d-aa26-4530-a46e-0562bfeddc81,a1a54476-968a-430b-a8e0-54ff74dcfb26,I am disappointed.
+28383b74-7264-4d1d-b60c-268da997b252,0aecd269-204a-4551-bbf8-44e79cca1969,Absolutely love this!
+86bba72c-9c83-478d-9148-2b68c001972c,c4162d7e-2d0d-4749-a3db-213490d3e49a,Worst purchase ever!
+82430153-a6f4-4995-84dc-611475c4822f,e2274547-d2cc-4571-a2a9-3bc47a0ec827,This product is great!
+24186bfb-83c3-4a1e-98d7-4569becff4de,fc7e8099-abe2-41df-b162-1f929b92ebb4,This product is great!
+9a83bec0-9b60-4180-89e2-a2502a5d2e64,d70b1bf4-0b57-4a57-8902-6352857757c0,Worst purchase ever!
+02650e33-7334-492d-872b-efe57181f1b6,4a7ccc01-9dd8-4aaf-af76-2f667ed8442f,Not what I expected.
+060f324d-5367-4e54-9216-ad078b33ed54,85754dbd-bb41-47fd-9d3f-e9209a66f10c,Very satisfied.
+5825296c-aca9-4ce7-a24d-8f5d1501933a,4230512f-8904-4f3c-a4a0-1155aff8f911,I am disappointed.
+f6ac3b5f-2ef2-4057-8036-15761c68f904,608b5f8e-53c5-45dd-8ebe-5a2b5f14352a,This product is great!
+ac71d1fb-5d03-4cf2-877c-b53b51e77e23,592ac8d9-835f-4cf2-9ba5-e0f73e8b8262,Very satisfied.
+a2a1509a-68b3-4d5e-9005-03d3dbd6b1bf,6c1fdfa1-e995-495e-a1d3-8275ea64d712,Absolutely love this!
+70c97bb0-0321-412f-966e-84ed3c74867c,76e61db3-53a2-439a-bfaa-302ffcc987dd,Worst purchase ever!
+ace9f0fa-4058-4f1f-9eed-4c28347884d4,b019f1db-ea3d-4df9-9378-973892432c67,I am disappointed.
+69259912-2836-4000-b300-2fd8b1087af5,50b5abed-9652-42ef-af80-bcdc31539718,Absolutely love this!
+5f444941-0680-4c6d-b244-545bbe2daec7,0b6f8695-82a9-4897-8520-cf0f48773be7,Could be better.
+8f52caab-a38b-48f1-8755-63a6e3632fda,e1799b25-1a8d-4c27-89c4-1ee54ad647ce,Could be better.
+c242a264-3163-4168-a0ed-5d3952583976,77e44cbf-f8b8-4f2f-9f9b-93f3eb9002a1,Very satisfied.
+1ce4b7cf-3e3b-421a-ad28-d04af0ba7d5a,548de58d-c173-477f-83e4-4d9d0e8a7d94,I am disappointed.
+268d15af-c4bb-41ce-8201-fdca42c38de6,a93873dc-52db-4794-8e5c-124a9e67045e,Could be better.
+23de0d4d-7652-49ad-b02f-6d6cbcf060a1,9d11e9aa-9127-4091-b2fd-cf791c801ab7,This is terrible.
+024e7cc9-405c-475c-a9e5-c43b5ee79951,459db7e5-2a08-4ae5-a91b-86c66946aa60,This is terrible.
+f49c92f1-30b4-46c8-a553-218ec80a991a,78b2f401-0d42-4dac-82f9-a8b3352cc970,This is terrible.
+6abf72b6-bb4f-4f42-ac54-417a96ffefb4,20116e2d-cd65-4a7d-9019-a3ce345ede16,Absolutely love this!
+88790577-c7ea-44dc-9338-8f07f3017d23,717f9346-a87b-472c-8f0d-a8e5ed06cad0,Not what I expected.
+5eb09ed6-f062-489a-a5a6-0f84d2132772,5e449faf-f05c-4527-85fc-397bb4397b41,This product is great!
+a9ec4d51-9fa2-422e-a3d9-c91150f3d0ba,eeb960ff-b601-49ff-a829-1b012e4aa669,Not what I expected.
+ac6886ff-7d90-4c84-aa55-eb1da55f7fb4,e520485f-4012-45dd-822f-6a7b97ebdedb,I am disappointed.
+bc737d43-db16-494a-88c1-b0d324afe635,64c94f53-c873-42db-8502-1f7cd79b55f7,Not what I expected.
+2523ebe0-f448-4c4e-80fe-27c540eaaa15,4b8fd69e-b904-4ee6-87d5-16c2de8db58f,Very satisfied.
+f72aac52-b409-4ff9-8356-0ef56878ad87,08b62b36-7bb1-4901-9616-97a347010bf1,I am disappointed.
+8d3e693c-cdf2-4ede-9e12-daabffa9cdc0,0d12f785-7f89-4699-a51b-70d63e570833,This product is great!
+4a1a579b-b428-4e49-885c-ecc8607c5ca0,778f5cd5-c935-424a-a1fa-d4c41e8c1b6d,This product is great!
+544d0b6b-e5dc-4e0a-bc8d-7e1a12dead70,75336d13-d90b-42f9-8372-bce62d7fd5a5,This product is great!
+9da7a33c-5fd3-4911-9dbf-c800b1829ed2,6581351f-ade3-49c9-a1fc-f78d132bbfff,This is terrible.
+483a35cc-9934-449c-8a6e-b616fe3099bc,829855b4-b616-478f-a03a-0eb51268706a,Worst purchase ever!
+ec931ac9-c301-4fc6-8644-be0d906c0011,94a42805-e993-4200-9223-dc04e04d7ab0,Absolutely love this!
+a8273143-dba6-4a43-9cc8-ab70fe8c01f0,f31eabdb-5943-412b-a35e-7aa8e9fead81,Could be better.
+8622e266-fe93-4568-a6d0-7de629996e37,2ee21693-07d6-4896-9036-580db27fac8f,Could be better.
+8ffff3d7-481e-43a1-9ae2-a48f0d46dce2,e9887d55-6ee9-4d50-a638-345f2d62a65f,Could be better.
+06d42fd3-58b2-48ad-95ff-b9acf0a08f43,ae320549-dc8c-4a61-a454-174f605c5fcf,Could be better.
+908a529e-6976-4e93-aede-462cbf4868ed,cb72142e-dd52-4e04-b284-6c2415ff53b0,This product is great!
+c46a2a13-b04b-469b-8cd0-c8d737b97d64,b442bb56-0c22-4071-8f3e-99d1e859120b,This product is great!
+8b6a113f-07fc-40c5-9b84-0b0db090da64,78bec79b-3325-4b3e-a749-5678b3f7f277,Not what I expected.
+eee31c22-c711-4c40-8c73-b1d68bec4985,44002b8d-c24b-4ae8-86c4-17f7c41eb2e8,Very satisfied.
+423804e8-315a-45ec-b5eb-0baa8fdfb244,42b667ad-12e0-4386-b085-79d62243ab51,This is terrible.
+5ba3eb0b-2c88-4aa9-9a7d-ceaa399d3f55,1474bd77-dbd3-46c5-a8a0-08ade3dd4e49,This is terrible.
+cfb094ef-d795-470a-a1d8-a7d92f26fc8a,1320f57e-1593-425e-aa6c-abb7af129f0d,This is terrible.
+27897548-f65b-4001-9785-84180a55fa1b,af417d5a-e1d7-465f-9c48-a40ca792a757,Not what I expected.
+64847e19-fba3-46d0-a45a-b01a6486ce24,fdc82b47-5e5d-41f0-98d3-d59f389e5d1b,Very satisfied.
+f12e44a8-73d5-4761-91c9-ec41fa9ecaa1,3dc7fae9-6edf-4138-8c0b-15fda8123c8d,Not what I expected.
+ad583ad7-d10e-455b-bc24-545567524a85,e9669f5d-0516-42f8-b12b-76888528458d,This is terrible.
+11878380-5c74-4170-978f-9c576db202fe,2da5b78e-b1ec-4f2e-a78f-1177ae422589,Worst purchase ever!
+bd4d6a58-b9ab-4507-a59d-1b056699b934,9b1ca9b8-bcfd-4353-9fdf-b59ea047d754,Not what I expected.
+10a969fa-182e-4332-92df-08f874eab828,5af1a8d4-4536-4c2b-a152-a2126fe9fb2b,This product is great!
+7160ae76-4614-4b9f-a769-760a48cb97aa,3d59e114-a944-4c95-a246-1fbbb44cf214,I am disappointed.
+c75a81bf-c1dd-456e-94c7-c220db0d4750,94ac87b0-874b-4792-8a45-a2b29a9bc719,Absolutely love this!
+4ed64f34-efce-4d53-a3df-bd1b9e19a558,d0bb0fab-d524-43e9-baec-b7ca95b99642,Absolutely love this!
+7506a430-1aa3-4787-bdbe-6bd775cc67c4,782ecee6-11cf-419b-8784-1a43def35d92,Not what I expected.
+1cae92f0-a542-4553-bcc9-7291d371a361,d14994d4-136a-49b5-9bce-392f2f2eef3c,I am disappointed.
+8ddc65b8-7b54-4bf9-a542-86018129806b,7b5577df-61f6-43a0-95b6-f31e7c704ae8,This product is great!
+312cf7cc-1e16-4319-a766-122495dde550,d315839b-f243-487c-a6af-e8e86637acf7,Worst purchase ever!
+ea270131-00b3-4730-bfa5-850335967345,b3f9a0e8-8d3e-48c5-813d-bf9dc8d9a583,Absolutely love this!
+c2a9617d-999f-4d05-838d-095f8bb76732,1820da9a-deb6-4dbd-b596-04bd8a389f20,Absolutely love this!
+67d97b4f-3e8e-475f-8e01-24f3ea061f28,f09398c2-c540-4fdc-a986-dab39a18f3d3,Absolutely love this!
+38a039bb-f254-483a-b3ac-a8e54138498f,f4f01e04-ad9a-4c82-9a14-33e346d7f293,This product is great!
+7c4cf93c-d408-4321-a4c5-f627170c8c32,af36c3ce-c875-4b3a-b25c-7461b9f99cc4,This is terrible.
+1a0e3043-8780-4380-9e62-ba0e153ef340,dc4e785c-0eea-4415-ba5b-c892b6551345,Not what I expected.
+74469581-9765-46ec-938e-41aa5e993574,b54bfe22-e8dc-45a2-9c3d-bdadcb4ceb3a,I am disappointed.
+6863e6e3-d5b7-4b14-bf97-7c1cf3020108,0d43dae5-8ca1-4dca-af65-a7578bb48700,This product is great!
+470bfc25-5641-4da2-a064-f9dc5298bbf0,850a514a-54ab-4c07-a671-fdb0abb39853,This is terrible.
+d21fe251-2371-4d66-9708-560354b249d0,ab36a932-5385-4f5e-b649-fbbf0eaad6ec,Very satisfied.
+c60419a7-839e-4c27-8c22-0ae5cdf13c8a,c883c30e-5394-4cd4-bc32-42f80828700e,Not what I expected.
+77748276-3e4e-4b88-9fd9-b6f1e46ec4fa,b5fb5142-ebc1-42e8-b617-021c8e73b383,Could be better.
+46cb102e-502b-4800-b4c3-624c6fc00c83,8ab5808c-3fe3-47de-8dbe-d351854a9d9b,Could be better.
+93e88409-9631-441c-ac3e-e1ed63cddbe7,ca910261-e7ed-45ba-88a9-f6d3e0620f35,I am disappointed.
+8a178cac-1806-48de-879e-320b5cb33d9e,61879027-7a3b-46d3-a34f-a032039a7ba0,This product is great!
+aa5d84c1-9796-4029-a6bd-4d04f277ce36,5e990df9-88c2-4dc0-869f-c73d5a868200,Could be better.
+19439061-2580-4477-979b-5603b7bdab07,aa50d9bd-4202-4367-8b30-57c71915c8db,This is terrible.
+e0d2a14c-f2b0-4fa0-96f5-6faff663ca74,e42947bb-89b5-4b3d-b851-bc76de250833,Worst purchase ever!
+32373e09-5ac6-4720-a974-2be5662f3de4,ad9d35bf-f4ee-4d32-a452-4484447519b1,Very satisfied.
+52984efe-39e3-434c-9dbb-87e44d6aa960,2f4e4498-80f8-4184-89b5-20cfc1fdcef1,This product is great!
+eb468538-3914-44cb-8042-f6bf32a0afdd,c2833151-b9c1-4065-96f5-36d77c6d7c3c,Could be better.
+54a07309-41d9-4dc8-8fa4-157f8d9035e9,7e0fd2e3-2cab-4ff9-97fe-a66e49311b17,Could be better.
+ecd07e7b-085a-4a4c-8854-d66486ef491e,bf4d16c0-0efb-4d28-8f9b-2d1ce694e8e7,Worst purchase ever!
+83407ce1-3d55-4b00-9fcb-432c4fe134a4,aa0ad476-4b0c-4121-9096-8f03a39928e0,This product is great!
+6fe7e54f-18e8-4f1b-8690-e8ca71b267dd,b476d186-53b5-406e-aa91-a9b7fd8f68da,Very satisfied.
+44328778-ddd9-40b5-bda3-aa5a19519e18,2393e009-6e91-4348-9a64-3e602bc8f517,Not what I expected.
+09b0f95e-4eab-434d-be46-9c23dd6ac08f,b070b727-0422-4310-a310-f92d13d6bfc1,Could be better.
+16c7a217-ad3d-4206-8608-e6f3be48df6a,043fb3ca-2534-461a-9f9e-df6f1ca4ad2c,This is terrible.
+b3bfde55-6fe8-45f4-b21f-07f0674e6cb8,85db8f02-9d41-435d-b738-301f22b9c94a,This product is great!
+4c31e947-f0ef-4ade-9d50-1ba58462455d,49d2e2de-42cd-4d3b-9a74-74194aebf962,Not what I expected.
+51891c04-0c6c-4baf-8a5f-79636f6c8bef,53073882-60bc-4d9b-8b0a-ec44f48a51a6,This product is great!
+407b4ab0-7302-46c1-9142-944512f528c7,f17a10b4-690f-429c-b397-491b3ed0c1ff,Could be better.
+c62de788-ffed-44be-9d4b-6f7a6e33ee1e,380168fc-f192-428b-a63a-9934fce9abc8,I am disappointed.
+cf094738-1c3b-43a8-a192-1bd3460a70ab,cdf45437-2267-4feb-b354-b0d8bfbab3cf,Absolutely love this!
+39afac25-7a63-4fca-bb4d-660f95e953c7,f73f9f1f-fb58-4baf-b995-aaee00a4230b,Absolutely love this!
+66d5c2a6-6f76-42df-9ec8-5640cd377cc9,0b6f6e11-a24b-43df-8b0b-dc867f345b7c,Worst purchase ever!
+5a0acf1d-d064-4990-a304-b3c01ccfb3d3,b12b41bf-faad-4756-bd46-c8a46aadfc08,Very satisfied.
+c0537b02-1a60-483f-bc7d-a657df25d271,8a024009-c89e-4a3c-be78-fd95e9d6f76b,Not what I expected.
+f94e823a-d793-48fe-ba5b-3db20f5522eb,6005de1e-0117-42d7-a06d-d7a35be15264,Could be better.
+305a1791-3a10-45a6-a2c9-b6475e8e6662,49b7afbe-b160-4376-9d60-61653e08c9ec,This product is great!
+e3aa386f-6f9a-4bc1-9548-47d31f6b74f1,d225cf8e-a9d7-4235-bb5b-9c9f406e4129,Could be better.
+4c4dab59-4ed7-41ab-8e09-c894b5e9488d,42b6f2f6-00a1-44f5-a353-89bf36eea549,I am disappointed.
+db2c1465-043e-474a-b5d4-a433857ef6d2,e93ecfee-5a61-4ad0-a68e-cb9f198c087d,Could be better.
+87f0dc75-3521-48ff-89da-c57447a86505,bace15eb-3986-4023-b192-5b03655bbc71,Could be better.
+1fc1ceea-dd17-40d0-8e3b-950d1ae2fdea,bd4ced2b-5c22-475c-8a7d-54b2edc8e073,Not what I expected.
+e266b5ae-4ad0-464a-b190-b3454343c9c4,b4a489e6-3316-4470-9250-984885ed517f,Could be better.
+7086b323-74e9-4efb-b192-4ec37c2b7bc6,d2dd4f53-f655-4be4-a7a7-049e29b388c2,Very satisfied.
+508aab5d-9611-4014-802e-342f542046b7,7fa27c23-6c52-43c5-92c7-a66d15ed87a9,Absolutely love this!
+9e30237f-c7f2-4911-be77-d7e0546440a7,6af4c70d-1c5d-41d8-806c-3f2d9057e7c9,I am disappointed.
+83450d25-3055-40a2-a074-8e5342f63513,6265f9d2-ebcb-4cbc-9076-b9646a7fb867,This product is great!
+d7a56924-8d80-4c86-9c99-109aa036591a,f9b6a7d9-0a88-4b0e-8ef6-0990cec8259c,Very satisfied.
+78cc564d-e3ae-4f17-b728-ed3edeeb4387,03595bf9-5e01-4279-ba42-be9ed0c1b346,Absolutely love this!
+3790bb26-fbfc-4538-9312-d0065ff53242,1953713c-ab75-427b-94e4-8a889bfa786b,Absolutely love this!
+88c755c9-6a1b-4211-bb20-550d2ab20d3c,c7349b8d-e3d4-481e-b0d1-e95f7fcbd05b,I am disappointed.
+3a8387f8-7efb-4c04-9505-f07b968a33c1,57c31035-2e7f-44c6-8b39-c8c50ed6138d,This is terrible.
+691bb4d0-8bab-4c78-9da1-16c24e9f0ed0,e92ed235-47ba-4cb9-82b1-3831e230f7f5,Very satisfied.
+22325432-18c6-4067-a3a8-2cfaea9870c4,a5c03114-845d-485d-b544-0a79b12f8bd9,Very satisfied.
+626547d0-b385-47a2-bbef-1e3307b8fb40,82f48344-6bb7-46b8-acd4-9ee3434653a2,Not what I expected.
+8b91adae-6f05-42a5-b3cf-d65c39afb037,ee2eaade-f792-4e22-8e57-4f3a20f91664,Not what I expected.
+dfb8cbae-445a-4c5b-954c-ed293da1ee3e,58e3b58a-4f1c-448c-9177-148a81761e52,Not what I expected.
+ed0cf882-8a04-4734-b2e4-8cc7dd01bda7,fc809a54-f6ef-4ce7-bd03-2c9c2901ead2,This is terrible.
+2e06485b-22ad-4ccc-b4ed-00fd7b89d728,992ca879-6d0c-4296-a33b-4f34768b8149,I am disappointed.
+f4182a50-ba8a-471e-8679-aaa7c1978ec9,9c788607-6bf8-4fb3-ac5c-044f0c2fec1a,I am disappointed.
+d06a76d2-9518-46a4-8ba6-9c571e4329b4,ec9f2101-768b-4c28-bb31-0599a09a3579,Worst purchase ever!
+9fcd887c-9a32-42ad-bc6f-639e064ca012,052785d0-0eb2-423e-a5f7-e52118b6c09f,This product is great!
+3c6b9224-0859-49d1-95d5-425fd58090aa,87d2b035-7ba7-4112-9941-c16a89db29fc,Worst purchase ever!
+38f13252-418d-45c4-adab-703cf1fe69a7,909f092a-9cb6-436e-bf80-a885d66b2e70,Very satisfied.
+b271819a-4127-4ddf-b724-f076fb6245cd,ea8887c6-e0db-4f95-93d7-9f69320fd2ce,Very satisfied.
+4484329a-41a8-439c-93a3-0425dcd59c85,d1e982db-5bb9-471e-b722-513cf822f7cf,This product is great!
+4a3738d2-45d0-4187-9402-1af7618c3a04,c8ceefd4-54ae-4094-9a30-5ea3c52b792e,This is terrible.
+e9984d34-bb5b-4eaf-8806-0b2f3f0f8294,39a1bd21-6616-49dd-863e-265cd7c55170,This product is great!
+412b9bf2-549d-45ca-b032-6aa81a0c3f6f,0a950059-2d30-4d95-bf43-88d26c3ae453,Worst purchase ever!
+8b4b135b-0f95-48a1-a0d1-dbc9a72b5743,28f3ff3c-12f2-47ca-831b-f4e0df85a6e0,Very satisfied.
+ac5830b3-1890-4691-8bbd-4e0e002a2ece,993a277a-40cb-4e62-a7f7-d25bf525ecf7,Very satisfied.
+51d9b1f5-c394-4e6a-9565-b6e0c5bf799f,c0162976-66e8-4b28-a330-759e20f5a8f9,Worst purchase ever!
+8f2a3957-cce6-4cc7-bf85-afc652bc0115,be93f740-6f7c-4cdf-9b44-f9dd3a1482e1,Very satisfied.
+bd6a1fe3-f84c-4e55-bdcf-36abc873614c,7bc8252d-203a-4397-9026-8b0fafd8def5,Worst purchase ever!
+113cb0f2-3b66-4ae0-b313-9b8f43f8c08d,a7af07ed-4956-4262-a625-5be1ba736d9c,Worst purchase ever!
+33b34013-fbb4-475a-80e9-1ac4a0ba28d3,3ee21df8-9e1b-4b40-a239-330378881cb1,I am disappointed.
+02242267-11d0-47da-9d8e-9f6568ae92c0,93f9ec82-e11b-48b4-8538-bdc75281df10,This is terrible.
+0596b6d3-ac17-4d66-9681-1ef2baaca38a,a9c86382-1cd1-4f78-92d2-2f37b5324786,Could be better.
+ab87bd22-821c-4a7a-a1a5-1b8f0f7ff646,65afeadc-4c4e-4090-ab60-63f86c48e58e,Not what I expected.
+29bd875a-a209-44e9-852d-366c9d21aa00,451ef6ac-2bb0-4903-bc18-09d8460d3684,This is terrible.
+f822d0e8-35e5-4608-b4a1-f9952a34421f,c7134f57-069d-466d-aff9-3c7773fef395,Absolutely love this!
+e9a94f54-47dd-4442-9b21-3531a5e0b628,fabbf51c-1690-4507-8093-3f6f9d34ea8b,This product is great!
+ac43820c-9cce-405a-94d4-9a394bf5e3d5,76810195-6d64-430f-ba2e-4dfc2a36e920,I am disappointed.
+b4f2b367-4d3f-460c-b7d1-22ec0f29d8df,98367a27-25f6-48a2-bca4-16dbc71d10c8,Very satisfied.
+7c3bdab2-79e3-46a4-8e72-83441108dd3f,86601c43-5979-4ae4-b469-4b9f07cfeba8,Could be better.
+b82e3f0f-ac59-461c-b4d3-6ff6ec3b8f55,37e92eba-bda1-42b3-9c4c-52dfeba774bc,Worst purchase ever!
+d5e66d2c-b545-4206-a9f4-9b1c59de5eda,63b4083a-0d3a-4b9e-aa73-ac41d7d400b2,Not what I expected.
+193bb323-aeec-40ab-995a-762025185d1b,55f1830f-f064-4f81-ba91-482c03af8895,Absolutely love this!
+219b3296-5502-4e49-a424-938eca3c90cf,dc266e55-3fd9-4497-8879-b48c2a5d7851,Very satisfied.
