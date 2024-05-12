@@ -33,7 +33,7 @@ if customers is not None and feedback is not None and order_details is not None 
     total_sales_by_product = order_details.groupby('Product_id')['Total_Sales'].sum()
 
     # Merge with product table to get product names
-    product_sales = pd.merge(total_sales_by_product, products[['Product_id', 'Product_name']], on='Product_id')
+    product_sales = pd.merge(total_sales_by_product, products, on='Product_id')
     top_products = product_sales.nlargest(3, 'Total_Sales')
 
     # Key Metrics

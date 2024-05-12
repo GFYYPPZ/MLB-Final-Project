@@ -76,7 +76,7 @@ def show_wordcloud(reviews):
         reviews：pandas series
     '''
     text = ' '.join(r for r in reviews)
-    wordcloud = WordCloud(width=1200, height=800, background_color='white').generate(text)
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
 
     fig, ax = plt.subplots()
     ax.imshow(wordcloud, interpolation='bilinear')
@@ -89,21 +89,29 @@ def show_wordcloud(reviews):
 st.title('Sentiment Analysis')
 
 # uploading sentiment data
-uploaded_file = st.file_uploader('Choose your csv file', type='csv')
-if uploaded_file is not None:
-    if 'name' not in st.session_state or st.session_state['name'] != uploaded_file.name:
-        df = pd.read_csv(uploaded_file)
-        st.session_state['data'] = df
-        st.session_state['name'] = uploaded_file.name
-        st.success('Dataset Loaded')
+# uploaded_file = st.file_uploader('Choose your csv file', type='csv')
+# if uploaded_file is not None:
+#     if 'name' not in st.session_state or st.session_state['name'] != uploaded_file.name:
+#         df = pd.read_csv(uploaded_file)
+#         st.session_state['data'] = df
+#         st.session_state['name'] = uploaded_file.name
+#         st.success('Dataset Loaded')
+
+if 'data' not in st.session_state:
+    if ('feedback' in st.session_state) and ('products' in st.session_state):
+        # merge the dataset
+        feedback_product = pd.merge(st.session_state.feedback, st.session_state.products, how='left', on='Product_id')
+        st.session_state['data'] = feedback_product
+
 if 'data' in st.session_state:
     # display the dataset
-    st.write(st.session_state.data)
+    st.dataframe(st.session_state.data)
 
     # button for generating sentiment score
     if st.button('Generate Scores'):
         sentiments = batch_sentiment_analysis(st.session_state.data['reviews'].tolist(), tokenizer, model)
         st.session_state.data['sentiment_scores'] = sentiments
+        st.write(st.session_state.data)
     if 'sentiment_scores' in st.session_state.data.columns:
         # st.write('Sample Output:')
         # st.write(st.session_state.data.head())
@@ -195,3 +203,9 @@ if 'data' in st.session_state:
                     #     st.pyplot(fig_sub)
 
             st.write(st.session_state.temp_data)
+
+else:
+    if ('feedback' in st.session_state) and ('products' in st.session_state):
+        # merge the dataset
+        feedback_product = pd.merge(st.session_state.feedback, st.session_state.products, how='left', on='Product_id')
+        st.session_state['data'] = feedback_product
