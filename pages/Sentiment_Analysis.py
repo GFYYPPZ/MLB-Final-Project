@@ -76,7 +76,7 @@ def show_wordcloud(reviews):
         reviews：pandas series
     '''
     text = ' '.join(r for r in reviews)
-    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+    wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='viridis').generate(text)
 
     fig, ax = plt.subplots()
     ax.imshow(wordcloud, interpolation='bilinear')
@@ -96,10 +96,11 @@ if 'data' not in st.session_state:
 
 if 'data' in st.session_state:
     # display the dataset
+    st.markdown('#### Dataset Overview')
     st.dataframe(st.session_state.data)
 
     # button for generating sentiment score
-    if st.button('Generate Scores'):
+    if st.button('Click to Generate Scores'):
         sentiments = batch_sentiment_analysis(st.session_state.data['reviews'].tolist(), tokenizer, model)
         st.session_state.data['sentiment_scores'] = sentiments
         st.write(st.session_state.data)
@@ -125,6 +126,7 @@ if 'data' in st.session_state:
         wordcloud_option_1 = st.selectbox(label='Select the column you wish to generate word cloud：',
                                         options=['Product_id', 'Product_Category', 'Food_type'],
                                         index=None)
+        
 
         #根据一级分类设置的情况，渲染对应的二级选项
         if (wordcloud_option_1 is not None):
@@ -135,12 +137,16 @@ if 'data' in st.session_state:
                 st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data['Product_id'] == product_id, :]
 
                 if product_id:
-                    try:
-                        # 展示词云图
-                        fig = show_wordcloud(st.session_state.temp_data['reviews'])
-                        st.pyplot(fig)
-                    except Exception as e:
-                        st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        try:
+                            # 展示词云图
+                            fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                            st.pyplot(fig)
+                        except Exception as e:
+                            st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                    with col2:
+                        st.dataframe(st.session_state.temp_data)
                 
             elif wordcloud_option_1 == 'Product_Category':
                 product_selection = st.radio(label='Select Product_Category：',
@@ -149,23 +155,35 @@ if 'data' in st.session_state:
                 st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data[wordcloud_option_1] == product_selection, :]
 
                 if product_selection:
-                    try:
-                        # 展示词云图
-                        fig = show_wordcloud(st.session_state.temp_data['reviews'])
-                        st.pyplot(fig)
-                    except Exception as e:
-                        st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        try:
+                            # 展示词云图
+                            fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                            st.pyplot(fig)
+                        except Exception as e:
+                            st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                    with col2:
+                        st.dataframe(st.session_state.temp_data)
 
-                    # # 可以接着往下细看不同的food_type
-                    # sub_selection = st.radio(label='选择细分Food_Type：',
-                    #                          options=temp_data['Food_type'].value_counts().index,
-                    #                          index=None)
-                    # temp_data = temp_data.loc[temp_data['Food_type'] == sub_selection, :]
+                    # 可以接着往下细看不同的food_type
+                    sub_selection = st.radio(label='Select Food_Type：',
+                                             options=st.session_state.temp_data['Food_type'].value_counts().index,
+                                             index=None)
+                    x = st.session_state.temp_data.copy()
+                    x = x.loc[x['Food_type'] == sub_selection, :]
 
-                    # if sub_selection:
-                    #     #展示细分词云图
-                    #     fig_sub = show_wordcloud(temp_data['reviews'])
-                    #     st.pyplot(fig_sub)
+                    if sub_selection:
+                        col1, col2 = st.columns(2)
+                        with col1:
+                            try:
+                                #展示细分词云图
+                                fig_sub = show_wordcloud(x['reviews'])
+                                st.pyplot(fig_sub)
+                            except Exception as e:
+                                st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                        with col2:
+                            st.dataframe(x)
                 
 
             elif wordcloud_option_1 == 'Food_type':
@@ -175,25 +193,35 @@ if 'data' in st.session_state:
                 st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data[wordcloud_option_1] == food_selection, :]
 
                 if food_selection:
-                    try:
-                        # 展示词云图
-                        fig = show_wordcloud(st.session_state.temp_data['reviews'])
-                        st.pyplot(fig)
-                    except Exception as e:
-                        st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        try:
+                            # 展示词云图
+                            fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                            st.pyplot(fig)
+                        except Exception as e:
+                            st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                    with col2:
+                        st.dataframe(st.session_state.temp_data)
 
-                    # # 可以接着往下细看不同的product_category
-                    # sub_selection = st.radio(label='选择细分Product_Category：',
-                    #                          options=temp_data['Product_Category'].value_counts().index,
-                    #                          index=None)
-                    # temp_data = temp_data.loc[temp_data['Product_Category'] == sub_selection, :]
+                    # 可以接着往下细看不同的product_category
+                    sub_selection = st.radio(label='Select Product_Category：',
+                                             options=st.session_state.temp_data['Product_Category'].value_counts().index,
+                                             index=None)
+                    x = st.session_state.temp_data.copy()
+                    x = x.loc[x['Product_Category'] == sub_selection, :]
 
-                    # if sub_selection:
-                    #     #展示细分词云图
-                    #     fig_sub = show_wordcloud(temp_data['reviews'])
-                    #     st.pyplot(fig_sub)
-
-            st.write(st.session_state.temp_data)
+                    if sub_selection:
+                        col1, col2 = st.columns(2)
+                        with col1:
+                            try:
+                                #展示细分词云图
+                                fig_sub = show_wordcloud(x['reviews'])
+                                st.pyplot(fig_sub)
+                            except Exception as e:
+                                st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
+                        with col2:
+                            st.dataframe(x)
 
 else:
     if ('feedback' in st.session_state) and ('products' in st.session_state):
