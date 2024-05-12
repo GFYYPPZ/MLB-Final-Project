@@ -5,6 +5,13 @@ import torch
 import streamlit as st
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import string
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
 
 # 加载预训练的 tokenizer 和模型
 tokenizer = AutoTokenizer.from_pretrained('nlptown/bert-base-multilingual-uncased-sentiment')
@@ -35,25 +42,47 @@ def batch_sentiment_analysis(reviews, tokenizer, model, batch_size=32):
     return np.array(results) + 1  # 转换为情感评分
 
 
-# 预处理评论数据
+# 删除标点符号
+def remove_punctuation(text):
+    '''
+        text: 一个字符串
+    '''
+    translator = str.maketrans('','', string.punctuation)
+    text = text.translate(translator)
+    return text
 
 
+# 删除停顿词
+def remove_stopwords(text):
+    # 设置停顿词
+    stop_words = set(stopwords.words('english'))
+    # 分词
+    word_tokens = word_tokenize(text)
+    # 过滤停顿词
+    filtered_text = [w for w in word_tokens if w.lower() not in stop_words]
+    return ' '.join(filtered_text)
 
 
+# 文本预处理 - 合并
+def text_preprocess(text):
+    text = remove_punctuation(text)
+    text = remove_stopwords(text)
+    return text
 
 
-
+# 画wordcloud
 def show_wordcloud(reviews):
     '''
         reviews：pandas series
     '''
     text = ' '.join(r for r in reviews)
-    wordcloud = WordCloud(width=800, height=400, background_color='grey').generate(text)
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
 
-    plt.figure(figsize=(10, 5))
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis('off')
-    plt.show()
+    fig, ax = plt.subplots()
+    ax.imshow(wordcloud, interpolation='bilinear')
+    ax.axis('off')
+
+    return fig
 
 #### Streamlit ####
 
@@ -79,44 +108,81 @@ if 'data' in st.session_state:
         st.write('Sample Output:')
         st.write(st.session_state.data.head())
     
-    # draw wordcloud
-    #选择sentiment score的range
-    sentiment_range = st.select_slider(label='Select the range of sentiment score you wish to include',
-                                        options=[1,2,3,4,5],
-                                        value=5)
-    temp_data = st.session_state.data.loc[st.session_state.data['sentiment_scores'] <= sentiment_range, :]
+        # draw wordcloud
+        # 创建一个session state的副本
+        temp_data = st.session_state.data.copy()
+        st.session_state['temp_data'] = temp_data
 
-    #设置一级分类
-    wordcloud_option_1 = st.selectbox(label='选择一级分类：',
-                                    options=['Product_id', 'Product_Category', 'Food_type'],
-                                    index=None,
-                                    placeholder='Select a column you want to group by')
+        #预处理文本数据
+        st.session_state.temp_data['reviews'] = st.session_state.temp_data['reviews'].apply(lambda x : text_preprocess(x))
 
-    #根据一级分类设置的情况，渲染对应的二级选项
-    if (wordcloud_option_1 is not None):
-        if (wordcloud_option_1 == 'Product_id'):
-            product_id = st.number_input('Input the product id you wish to check',
-                                        min_value=1,
-                                        value=None)
-            temp_data = st.session_state.data.loc[st.session_state.data['Product_id'] == product_id, :]
+        #选择sentiment score的range
+        sentiment_range = st.select_slider(label='Select the range of sentiment score you wish to include',
+                                            options=[1,2,3,4,5],
+                                            value=5)
+        st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data['sentiment_scores'] <= sentiment_range, :]
 
-            # 展示词云图
-            
-        elif wordcloud_option_1 == 'Product_Category':
-            product_selection = st.radio(label='选择Product_Category：',
-                                        options=st.session_state.data[wordcloud_option_1].value_counts().index,
+        #设置一级分类
+        wordcloud_option_1 = st.selectbox(label='Select the column you wish to generate word cloud：',
+                                        options=['Product_id', 'Product_Category', 'Food_type'],
                                         index=None)
-            temp_data = st.session_state.data.loc[st.session_state.data[wordcloud_option_1] == product_selection, :]
 
-            #展示词云图
+        #根据一级分类设置的情况，渲染对应的二级选项
+        if (wordcloud_option_1 is not None):
+            if (wordcloud_option_1 == 'Product_id'):
+                product_id = st.number_input('Input the product id you wish to check',
+                                            min_value=1,
+                                            value=None)
+                st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data['Product_id'] == product_id, :]
 
+                if product_id:
+                    # 展示词云图
+                    fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                    st.pyplot(fig)
+                
+            elif wordcloud_option_1 == 'Product_Category':
+                product_selection = st.radio(label='Select Product_Category：',
+                                            options=st.session_state.temp_data[wordcloud_option_1].value_counts().index,
+                                            index=None)
+                st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data[wordcloud_option_1] == product_selection, :]
 
-        elif wordcloud_option_1 == 'Food_type':
-            food_selection = st.radio(label='选择Food_Type：',
-                                      options=st.session_state.data[wordcloud_option_1].value_counts().index,
-                                      index=None)
-            temp_data = st.session_state.data.loc[st.session_state.data[wordcloud_option_1] == food_selection, :]
+                if product_selection:
+                    #展示词云图
+                    fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                    st.pyplot(fig)
 
-            # 展示词云图
+                    # # 可以接着往下细看不同的food_type
+                    # sub_selection = st.radio(label='选择细分Food_Type：',
+                    #                          options=temp_data['Food_type'].value_counts().index,
+                    #                          index=None)
+                    # temp_data = temp_data.loc[temp_data['Food_type'] == sub_selection, :]
 
-    st.write(temp_data)
+                    # if sub_selection:
+                    #     #展示细分词云图
+                    #     fig_sub = show_wordcloud(temp_data['reviews'])
+                    #     st.pyplot(fig_sub)
+                
+
+            elif wordcloud_option_1 == 'Food_type':
+                food_selection = st.radio(label='Select Food_Type：',
+                                        options=st.session_state.temp_data[wordcloud_option_1].value_counts().index,
+                                        index=None)
+                st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data[wordcloud_option_1] == food_selection, :]
+
+                if food_selection:
+                    # 展示词云图
+                    fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                    st.pyplot(fig)
+
+                    # # 可以接着往下细看不同的product_category
+                    # sub_selection = st.radio(label='选择细分Product_Category：',
+                    #                          options=temp_data['Product_Category'].value_counts().index,
+                    #                          index=None)
+                    # temp_data = temp_data.loc[temp_data['Product_Category'] == sub_selection, :]
+
+                    # if sub_selection:
+                    #     #展示细分词云图
+                    #     fig_sub = show_wordcloud(temp_data['reviews'])
+                    #     st.pyplot(fig_sub)
+
+            st.write(st.session_state.temp_data)
