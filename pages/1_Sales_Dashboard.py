@@ -36,22 +36,22 @@ if customers is not None and feedback is not None and order_details is not None 
     product_sales = pd.merge(total_sales_by_product, products, on='Product_id')
     top_products = product_sales.nlargest(3, 'Total_Sales')
 
-    # Key Metrics
-    st.header("Key Metrics")
-    number_of_unique_customers = customers['Customer_id'].nunique()
-    average_order_value = order_details.groupby('Order_id')['Total_Sales'].sum().mean()
-    orders_per_customer = orders_overall['Customer_id'].value_counts().mean()
+    # # Key Metrics
+    # st.header("Key Metrics")
+    # number_of_unique_customers = customers['Customer_id'].nunique()
+    # average_order_value = order_details.groupby('Order_id')['Total_Sales'].sum().mean()
+    # orders_per_customer = orders_overall['Customer_id'].value_counts().mean()
 
-    col1, col2, col3 = st.columns(3)
-    col1.metric("Number of Unique Customers", number_of_unique_customers)
-    col2.metric("Average Order Value", f"${average_order_value:.2f}")
-    col3.metric("Average Number of Purchases per Customer", f"{orders_per_customer:.2f}")
+    # col1, col2, col3 = st.columns(3)
+    # col1.metric("Number of Unique Customers", number_of_unique_customers)
+    # col2.metric("Average Order Value", f"${average_order_value:.2f}")
+    # col3.metric("Average Number of Purchases per Customer", f"{orders_per_customer:.2f}")
 
-    # Top 3 Best Selling Products
-    st.header("Top 3 Best Selling Products")
-    for index, row in top_products.iterrows():
-        st.subheader(f"{row['Product_name']}")
-        st.write(f"Total Sales: ${row['Total_Sales']:,.2f}")
+    # # Top 3 Best Selling Products
+    # st.header("Top 3 Best Selling Products")
+    # for index, row in top_products.iterrows():
+    #     st.subheader(f"{row['Product_name']}")
+    #     st.write(f"Total Sales: ${row['Total_Sales']:,.2f}")
 
     # Dynamic Customer Segmentation Analysis
     st.header("Customer Purchase Behavior Segmentation")
@@ -82,20 +82,20 @@ if customers is not None and feedback is not None and order_details is not None 
     ax.axis('equal')
     st.pyplot(fig)
 
-    # Quarterly Sales Overview
-    st.header("Quarterly Sales Overview")
-    orders_overall['Order_date'] = pd.to_datetime(orders_overall['Order_date'])
-    merged_data = pd.merge(orders_overall[['Order_id', 'Order_date']], order_details[['Order_id', 'Total_Sales']], on='Order_id')
-    merged_data.set_index('Order_date', inplace=True)
-    quarterly_sales = merged_data.resample('Q').sum()
-    fig, ax = plt.subplots()
-    quarterly_sales['Total_Sales'].plot(kind='bar', ax=ax)
-    quarters_labels = [f"{x.year} Q{x.quarter}" for x in quarterly_sales.index]
-    ax.set_xticklabels(quarters_labels)
-    ax.set_title('Quarterly Sales')
-    ax.set_xlabel('Quarter')
-    ax.set_ylabel('Total Sales ($)')
-    st.pyplot(fig)
+    # # Quarterly Sales Overview
+    # st.header("Quarterly Sales Overview")
+    # orders_overall['Order_date'] = pd.to_datetime(orders_overall['Order_date'])
+    # merged_data = pd.merge(orders_overall[['Order_id', 'Order_date']], order_details[['Order_id', 'Total_Sales']], on='Order_id')
+    # merged_data.set_index('Order_date', inplace=True)
+    # quarterly_sales = merged_data.resample('Q').sum()
+    # fig, ax = plt.subplots()
+    # quarterly_sales['Total_Sales'].plot(kind='bar', ax=ax)
+    # quarters_labels = [f"{x.year} Q{x.quarter}" for x in quarterly_sales.index]
+    # ax.set_xticklabels(quarters_labels)
+    # ax.set_title('Quarterly Sales')
+    # ax.set_xlabel('Quarter')
+    # ax.set_ylabel('Total Sales ($)')
+    # st.pyplot(fig)
 
     # Revenue Breakdown
     st.header("Revenue Breakdown")
