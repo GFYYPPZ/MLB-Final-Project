@@ -88,15 +88,15 @@ if ('customer' in st.session_state) and ('orders_overall' in st.session_state) a
         st.plotly_chart(fig)
 
     # Row B
-    col1, col2 = st.columns([0.6, 0.5])
+    col1, col2 = st.columns([0.7, 0.4])
     with col1:
         fig = px.choropleth(total_customers_by_states(customer), locations='Location',
                             locationmode='USA-states', color='Customer_id',
                             scope='usa', title='Total Number of Customers By States',
                             color_continuous_scale='Greens', labels={'Customer_id': 'Number of Customer'})
         fig.update_layout(
-            height=700,
-            width=700
+            height=500,
+            width=900
         )
         st.plotly_chart(fig)
 
@@ -104,4 +104,8 @@ if ('customer' in st.session_state) and ('orders_overall' in st.session_state) a
         customer_option_2 = st.selectbox(label='Select the variable you wish to look into:',
                                         options=['Gender', 'Income_level', 'Education', 'Occupation', 'Age_Bin'])
         fig = px.bar(sales_by_variables(customer_option_2), x='Var', y='Total', title=f'Total Sales By {customer_option_2}')
+        fig.update_layout(
+            height=500,
+            width=500
+        )
         st.plotly_chart(fig)

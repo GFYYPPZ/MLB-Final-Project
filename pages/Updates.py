@@ -67,3 +67,11 @@ if ('customer' in st.session_state) and ('feedback' in st.session_state) and ('o
                         scope='usa', title='Total Sales By States',
                         color_continuous_scale='Greens')
     st.plotly_chart(fig)
+
+    # 根据时间，看看sales的变化，
+    # 根据时间，画折线图，一个折线图里面有不同的product total sales随着时间的变化
+
+    # top product
+    # top category
+
+    

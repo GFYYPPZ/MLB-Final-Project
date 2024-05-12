@@ -88,15 +88,6 @@ def show_wordcloud(reviews):
 
 st.title('Sentiment Analysis')
 
-# uploading sentiment data
-# uploaded_file = st.file_uploader('Choose your csv file', type='csv')
-# if uploaded_file is not None:
-#     if 'name' not in st.session_state or st.session_state['name'] != uploaded_file.name:
-#         df = pd.read_csv(uploaded_file)
-#         st.session_state['data'] = df
-#         st.session_state['name'] = uploaded_file.name
-#         st.success('Dataset Loaded')
-
 if 'data' not in st.session_state:
     if ('feedback' in st.session_state) and ('products' in st.session_state):
         # merge the dataset
