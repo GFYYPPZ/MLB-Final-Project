@@ -1,10 +1,23 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
+import plotly.express as px
 
 def load_data(filepath):
     df = pd.read_csv(filepath)
     return df
+
+def total_sales_by_states(order, product, customer):
+    # 合并订单和产品数据，以获取产品价格
+    order_product = pd.merge(order, product, on='Product_id', how='left')
+    order_product['Total_Price'] = order_product['Quantity'] * order_product['Product_Price']
+
+    # 将合并后的订单产品数据与客户数据合并，以获取州信息
+    order_product_customer = pd.merge(order_product, customer, on='Customer_id', how='left')
+
+    state_sales = order_product_customer.groupby('Location')['Total_Price'].sum().reset_index()
+
+    return state_sales
 
 # File uploaders for each dataset
 st.sidebar.header("Upload your data files")
@@ -26,7 +39,10 @@ if ('customer' in st.session_state) and ('feedback' in st.session_state) and ('o
     products = st.session_state['products']
 
 
+
     #我就是写在这里让你看看大概这个dashboard要怎么搞，具体的细节你自己拿捏，我得去改后面的了
+
+    st.title('Sales Analysis')
     # Row A
     with st.container(border=True):
         st.markdown('### Metrics')
@@ -45,4 +61,9 @@ if ('customer' in st.session_state) and ('feedback' in st.session_state) and ('o
     with col2:
         pass
 
-    # Row C
+    # Row C 这是我帮你画的图，函数帮你写好了，你自己看看放哪
+    fig = px.choropleth(total_sales_by_states(orders_overall, products, customer), locations='Location',
+                        locationmode='USA-states', color='Total_Price',
+                        scope='usa', title='Total Sales By States',
+                        color_continuous_scale='Greens')
+    st.plotly_chart(fig)
