@@ -76,7 +76,7 @@ def show_wordcloud(reviews):
         reviews：pandas series
     '''
     text = ' '.join(r for r in reviews)
-    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+    wordcloud = WordCloud(width=1200, height=800, background_color='white').generate(text)
 
     fig, ax = plt.subplots()
     ax.imshow(wordcloud, interpolation='bilinear')
@@ -105,8 +105,8 @@ if 'data' in st.session_state:
         sentiments = batch_sentiment_analysis(st.session_state.data['reviews'].tolist(), tokenizer, model)
         st.session_state.data['sentiment_scores'] = sentiments
     if 'sentiment_scores' in st.session_state.data.columns:
-        st.write('Sample Output:')
-        st.write(st.session_state.data.head())
+        # st.write('Sample Output:')
+        # st.write(st.session_state.data.head())
     
         # draw wordcloud
         # 创建一个session state的副本
@@ -136,9 +136,12 @@ if 'data' in st.session_state:
                 st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data['Product_id'] == product_id, :]
 
                 if product_id:
-                    # 展示词云图
-                    fig = show_wordcloud(st.session_state.temp_data['reviews'])
-                    st.pyplot(fig)
+                    try:
+                        # 展示词云图
+                        fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                        st.pyplot(fig)
+                    except Exception as e:
+                        st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
                 
             elif wordcloud_option_1 == 'Product_Category':
                 product_selection = st.radio(label='Select Product_Category：',
@@ -147,9 +150,12 @@ if 'data' in st.session_state:
                 st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data[wordcloud_option_1] == product_selection, :]
 
                 if product_selection:
-                    #展示词云图
-                    fig = show_wordcloud(st.session_state.temp_data['reviews'])
-                    st.pyplot(fig)
+                    try:
+                        # 展示词云图
+                        fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                        st.pyplot(fig)
+                    except Exception as e:
+                        st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
 
                     # # 可以接着往下细看不同的food_type
                     # sub_selection = st.radio(label='选择细分Food_Type：',
@@ -170,9 +176,12 @@ if 'data' in st.session_state:
                 st.session_state.temp_data = st.session_state.temp_data.loc[st.session_state.temp_data[wordcloud_option_1] == food_selection, :]
 
                 if food_selection:
-                    # 展示词云图
-                    fig = show_wordcloud(st.session_state.temp_data['reviews'])
-                    st.pyplot(fig)
+                    try:
+                        # 展示词云图
+                        fig = show_wordcloud(st.session_state.temp_data['reviews'])
+                        st.pyplot(fig)
+                    except Exception as e:
+                        st.write('We need at least 1 word to plot a word cloud (Do not have enough data)')
 
                     # # 可以接着往下细看不同的product_category
                     # sub_selection = st.radio(label='选择细分Product_Category：',
