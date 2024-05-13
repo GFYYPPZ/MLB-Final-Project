@@ -78,7 +78,7 @@ if ('customer' in st.session_state) and ('orders_overall' in st.session_state) a
 
     with col3:
         customer['Age_Bin'] = age_bin(customer)
-        fig = px.pie(customer, names='age_bin', title='Age (Binned) Distribution')
+        fig = px.pie(customer, names='Age_Bin', title='Age (Binned) Distribution')
 
         fig.update_layout(
             width=500,  # 宽度为500像素
